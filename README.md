@@ -13,32 +13,31 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Image-based (2D) Virtual Try-on
 
-  ### CVPR 2020
+  #### CVPR 2020
   - Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On)
   - Image Based Virtual Try-On Network From Unpaired Data - [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html)
-  ### CVPRW 2020
+  #### CVPRW 2020
   - CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On - [Paper/Code/Data](https://minar09.github.io/cpvtonplus/)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On - [Paper/Code](https://minar09.github.io/c3dvton/)
 
-
-  ### ICCV 2019
+  #### ICCV 2019
   - VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)
   - ClothFlow: A Flow-Based Model for Clothed Person Generation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)
   
-  ### ICCVW 2019
+  #### ICCVW 2019
   - UVTON: UV Mapping to Consider the 3D Structure of a Human in Image-Based Virtual Try-On Network, [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kubo_UVTON_UV_Mapping_to_Consider_the_3D_Structure_of_a_ICCVW_2019_paper.html)
   - LA-VITON: A Network for Looking-Attractive Virtual Try-On - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Lee_LA-VITON_A_Network_for_Looking-Attractive_Virtual_Try-On_ICCVW_2019_paper.html)
   - Robust Cloth Warping via Multi-Scale Patch Adversarial Loss for Virtual Try-On Framework - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/HBU/Ayush_Robust_Cloth_Warping_via_Multi-Scale_Patch_Adversarial_Loss_for_Virtual_ICCVW_2019_paper.html)
   - Powering Virtual Try-On via Auxiliary Human Segmentation Learning - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Ayush_Powering_Virtual_Try-On_via_Auxiliary_Human_Segmentation_Learning_ICCVW_2019_paper.html)
   - Generating High-Resolution Fashion Model Images Wearing Custom Outfits - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.html)
 
-
-  ### CVPR 2019
-  ### ECCV 2018
+  #### ECCV 2018
   - Toward Characteristic-Preserving Image-based Virtual Try-On Network - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bochao_Wang_Toward_Characteristic-Preserving_Image-based_ECCV_2018_paper.pdf), [Code](https://github.com/sergeywong/cp-vton)
-  ### CVPR 2018
   
-  ### Others
+  #### CVPR 2018
+  - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
+  
+  #### Others
   - SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On, WACV 2019 - [Paper](http://openaccess.thecvf.com/content_WACV_2020/html/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.html)
   - Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps - [Paper](https://arxiv.org/abs/2003.10817)
   - M2E-Try On Net: Fashion from Model to Everyone - [Paper](https://arxiv.org/abs/1811.08599v1)
@@ -47,22 +46,20 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## 3D Virtual Try-on
 
-  ### CVPR 2020
+  #### CVPR 2020
   - Learning to Transfer Texture from Clothing Images to 3D Humans - [Paper/Code](http://virtualhumans.mpi-inf.mpg.de/pix2surf/)
   - TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style - [Paper/Code/Data](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
   - Learning to Dress 3D People in Generative Clothing - [Paper/Code/Data](https://cape.is.tue.mpg.de/)
 
-  ### ICCV 2019
+  #### ICCV 2019
   - Multi-Garment Net: Learning to Dress 3D People from Images - [Paper/Code/Data](http://virtualhumans.mpi-inf.mpg.de/mgn/)
   - 3DPeople: Modeling the Geometry of Dressed Humans - [Paper](https://arxiv.org/abs/1904.04571)
   - GarNet: A Two-Stream Network for Fast and Accurate 3D Cloth Draping - [Paper/Data](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/)
 
-  ### CVPR 2019
-  ### ECCV 2018
+  #### ECCV 2018
   - DeepWrinkles: Accurate and Realistic Clothing Modeling - [Paper](https://arxiv.org/abs/1808.03417)
 
-  ### CVPR 2018
-  ### Others
+  #### Others
   - Learning an Intrinsic Garment Space for Interactive Authoring of Garment Animation, SIGGRAPH Asia 2019 - [Paper/Code](http://geometry.cs.ucl.ac.uk/projects/2019/garment_authoring/)
   - 3D Virtual Garment Modeling from RGB Images, ISMAR 2019 - [Paper](https://arxiv.org/abs/1908.00114)
   - Deep Garment Image Matting for a Virtual Try-on System, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Shin_Deep_Garment_Image_Matting_for_a_Virtual_Try-on_System_ICCVW_2019_paper.html)
