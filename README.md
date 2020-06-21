@@ -75,7 +75,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Learning a Shared Shape Space for Multimodal Garment Design, SIGGRAPH Asia 2018 - [Paper/Code/Data](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/)
   - Detailed Garment Recovery from a Single-View Image, ACM TOG 2018 - [Paper](https://arxiv.org/abs/1608.01250)
   - ClothCap: Seamless 4D Clothing Capture and Retargeting, SIGGRAPH 2017 - [Paper](http://clothcap.is.tue.mpg.de/)
-  - Virtual Try-On through Image-Based Rendering, 
+  - Virtual Try-On through Image-Based Rendering, IEEE T-VCG 2013 - [Paper](https://ieeexplore.ieee.org/document/6487501)
 
 
 
