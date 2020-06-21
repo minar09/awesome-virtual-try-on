@@ -110,6 +110,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Digital Wardrobe - [Download/Paper/Project](http://virtualhumans.mpi-inf.mpg.de/mgn/)
 - TailorNet Dataset - [Download](https://github.com/zycliao/TailorNet_dataset), [Project](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
 - CLOTH3D - [Paper](https://arxiv.org/abs/1912.02792)
+- 3DPeople - [Project](https://www.albertpumarola.com/research/3DPeople/index.html)
+- THUman Dataset - [Project](http://www.liuyebin.com/deephuman/deephuman.html)
+- Garment Dataset, Wang et al. 2018 - [Project](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/)
 
 
 ## Related Conference Workshops
@@ -124,6 +127,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Clothes-3D](https://github.com/lzhbrian/Clothes-3D)
 - [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human)
 - [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
+- [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
 
 
 #### Pull requests are welcome!
