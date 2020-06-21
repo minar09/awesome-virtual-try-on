@@ -40,11 +40,13 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   
   #### Others
   - LGVTON: A Landmark Guided Approach to Virtual Try-On - [Paper](https://arxiv.org/abs/2004.00562v1)
+  - SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On, WACV 2020 - [Paper](http://openaccess.thecvf.com/content_WACV_2020/html/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.html)
   - GarmentGAN: Photo-realistic Adversarial Fashion Transfer - [Paper](https://arxiv.org/abs/2003.01894)
   - Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps - [Paper](https://arxiv.org/abs/2003.10817)
   - FashionFit Analysis of Mapping 3D Pose and neural body fit for custom virtual try-on, IEEE Access 2020 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9091008)
+  - SP-VITON: shape-preserving image-based virtual try-on network, Multimedia Tools and Applications 2019 - [Paper](https://link.springer.com/article/10.1007/s11042-019-08363-w)
   - VITON-GAN: Virtual Try-on Image Generator Trained with Adversarial Loss, Eurographics 2019 Posters - [Paper](https://arxiv.org/abs/1911.07926v1), [Code/Model](https://github.com/shionhonda/viton-gan)
-  - SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On, WACV 2019 - [Paper](http://openaccess.thecvf.com/content_WACV_2020/html/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.html)
+  - Image-Based Virtual Try-on Network with Structural Coherence, ICIP 2019 - [Paper](https://ieeexplore.ieee.org/document/8803811)
   - End-to-End Learning of Geometric Deformations of Feature Maps for Virtual Try-On - [Paper](https://arxiv.org/abs/1906.01347v2)
   - M2E-Try On Net: Fashion from Model to Everyone - [Paper](https://arxiv.org/abs/1811.08599v1)
 
@@ -73,6 +75,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Learning a Shared Shape Space for Multimodal Garment Design, SIGGRAPH Asia 2018 - [Paper/Code/Data](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/)
   - Detailed Garment Recovery from a Single-View Image, ACM TOG 2018 - [Paper](https://arxiv.org/abs/1608.01250)
   - ClothCap: Seamless 4D Clothing Capture and Retargeting, SIGGRAPH 2017 - [Paper](http://clothcap.is.tue.mpg.de/)
+  - Virtual Try-On through Image-Based Rendering, 
 
 
 
@@ -81,6 +84,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 - Down to the Last Detail: Virtual Try-on with Detail Carving - [Paper](https://arxiv.org/abs/1912.06324v2), [Code/Model](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving)
 - Towards Multi-pose Guided Virtual Try-on Network, ICCV 2019 - [Paper](https://arxiv.org/abs/1902.11026), [Code](https://github.com/thaithanhtuan/MyMGVTON)
+- FIT-ME: IMAGE-BASED VIRTUAL TRY-ON WITH ARBITRARY POSES, ICIP 2019 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803681&casa_token=2CL5K9pwy1IAAAAA:OTa5P-h6RWj9BdQVvkxQURR8tDy4Eg1BZynYOizMyQACnE-zL_EHu2xRzyXBOWijP_cItaO4)
 - Virtually Trying on New Clothing with Arbitrary Poses, ACM MM 2019 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350946?casa_token=w7EzejnZIaEAAAAA:KvDBsi1xYswuQuzEdJO-rsTDvysnSLYlAYi1J2st5lf8lnyotm5-umPKQupGaMEPUGxyBzijUkA9)
 - FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information, ACM MM 2019 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3351075?casa_token=7y85FCo6B-QAAAAA:diZbVYmcSK13bMQ94MzrMG_-VvVG_oNFoGpI8wCBFJ_dHEzYnLBAPn2ZwbAgj_pmOWFMD6_1hOuk)
   
