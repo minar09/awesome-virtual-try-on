@@ -21,12 +21,18 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
   ### ICCV 2019
+  - VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)
+  - ClothFlow: A Flow-Based Model for Clothed Person Generation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)
   ### ICCVW 2019
+  - UVTON: UV Mapping to Consider the 3D Structure of a Human in Image-Based Virtual Try-On Network, [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kubo_UVTON_UV_Mapping_to_Consider_the_3D_Structure_of_a_ICCVW_2019_paper.html)
+  - LA-VITON: A Network for Looking-Attractive Virtual Try-On - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Lee_LA-VITON_A_Network_for_Looking-Attractive_Virtual_Try-On_ICCVW_2019_paper.html)
+
   ### CVPR 2019
   ### ECCV 2018
   - Toward Characteristic-Preserving Image-based Virtual Try-On Network - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bochao_Wang_Toward_Characteristic-Preserving_Image-based_ECCV_2018_paper.pdf), [Code](https://github.com/sergeywong/cp-vton)
   ### CVPR 2018
   ### Others
+  - SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On, WACV 2019 - [Paper](http://openaccess.thecvf.com/content_WACV_2020/html/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.html)
   - M2E-Try On Net: Fashion from Model to Everyone - [Paper](https://arxiv.org/abs/1811.08599v1)
 
 
@@ -57,20 +63,23 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 
-  
-  
-## Video Virtual Try-on
-
-
 
 ## Multi-Pose Guided Virtual Try-on
 
   ### CVPR 2020
   ### ICCV 2019
+  - Towards Multi-pose Guided Virtual Try-on Network - [Paper](https://arxiv.org/abs/1902.11026)
   ### CVPR 2019
   ### ECCV 2018
   ### CVPR 2018
   
+  
+  
+## Video Virtual Try-on
+
+### ICCV 2019
+- FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html)
+
 
 ## Datasets for Virtual Try-on
 
@@ -93,6 +102,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
 - [Clothes-3D](https://github.com/lzhbrian/Clothes-3D)
 - [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human)
+- [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 
 #### Pull requests are welcome!
