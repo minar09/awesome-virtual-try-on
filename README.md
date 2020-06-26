@@ -129,6 +129,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 ## Related Repositories
 
 - [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+- [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
 - [Clothes-3D](https://github.com/lzhbrian/Clothes-3D)
 - [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human)
 - [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
