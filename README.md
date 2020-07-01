@@ -66,6 +66,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
   #### ECCV 2018
   - DeepWrinkles: Accurate and Realistic Clothing Modeling - [Paper](https://arxiv.org/abs/1808.03417)
+  
+  #### CVPR 2018
+  - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Code](https://minar09.github.io/c3dvton/)
@@ -89,6 +92,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - FIT-ME: IMAGE-BASED VIRTUAL TRY-ON WITH ARBITRARY POSES, ICIP 2019 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803681&casa_token=2CL5K9pwy1IAAAAA:OTa5P-h6RWj9BdQVvkxQURR8tDy4Eg1BZynYOizMyQACnE-zL_EHu2xRzyXBOWijP_cItaO4)
 - Virtually Trying on New Clothing with Arbitrary Poses, ACM MM 2019 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350946?casa_token=w7EzejnZIaEAAAAA:KvDBsi1xYswuQuzEdJO-rsTDvysnSLYlAYi1J2st5lf8lnyotm5-umPKQupGaMEPUGxyBzijUkA9)
 - FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information, ACM MM 2019 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3351075?casa_token=7y85FCo6B-QAAAAA:diZbVYmcSK13bMQ94MzrMG_-VvVG_oNFoGpI8wCBFJ_dHEzYnLBAPn2ZwbAgj_pmOWFMD6_1hOuk)
+- Pose Guided Fashion Image Synthesis Using Deep Generative Model - [Paper](https://arxiv.org/pdf/1906.07251.pdf)
+- Pose Guided Person Image Generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf)
   
   
   
@@ -100,6 +105,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Non-clothing Virtual Try-on
 - Regularized Adversarial Training for Single-Shot Virtual Try-On, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kikuchi_Regularized_Adversarial_Training_for_Single-Shot_Virtual_Try-On_ICCVW_2019_paper.html)
+- Disentangled Makeup Transfer with Generative Adversarial Network - [Paper](https://arxiv.org/pdf/1907.01144v1.pdf)
 - PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion, ACCV 2018 - [Paper](https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf)
 - Virtual Try-on of Eyeglasses using 3D Model of the Head - [Paper](https://dl.acm.org/doi/pdf/10.1145/2087756.2087838)
 - A MIXED REALITY SYSTEM FOR VIRTUAL GLASSES TRY-ON - [Paper](https://dl.acm.org/doi/pdf/10.1145/2087756.2087816)
