@@ -17,8 +17,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### CVPR 2020
   - Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On)
   - Image Based Virtual Try-On Network From Unpaired Data - [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html)
+  
   #### CVPRW 2020
-  - CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On - [Paper/Code/Data](https://minar09.github.io/cpvtonplus/)
+  - CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On - [Paper/Code/Data/Model](https://minar09.github.io/cpvtonplus/)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On - [Paper/Code](https://minar09.github.io/c3dvton/)
 
   #### ICCV 2019
