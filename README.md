@@ -7,6 +7,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Video Virtual Try-on](#Video-Virtual-Try-on)
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
+- [Appearance/Style/Pose Transfer](#appearance/style/pose-transfer)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Related Repositories](#Related-Repositories)
@@ -128,6 +129,12 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Disentangled Person Image Generation, CVPR 2018 - [Paper/Code/Data](https://homes.esat.kuleuven.be/~liqianma/CVPR18_DPIG/index.html)
 - A Variational U-Net for Conditional Appearance and Shape Generation, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.04694.pdf), [Code](https://github.com/CompVis/vunet)
 - Pose guided person image generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf), [Code](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
+
+
+
+## Appearance/Style/Pose Transfer
+- Neural Pose Transfer by Spatially Adaptive Instance Normalization, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.07254v2.pdf), [Code](https://github.com/jiashunwang/Neural-Pose-Transfer)
+- Human Appearance Transfer, CVPR 2018 - [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zanfir_Human_Appearance_Transfer_CVPR_2018_paper.pdf)
 
 
 
