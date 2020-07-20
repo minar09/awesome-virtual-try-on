@@ -115,6 +115,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Pose-Guided Human Synthesis
+- Deep Image Spatial Transformation for Person Image Generation, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.00696v2.pdf), [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
+- Progressive Pose Attention for Person Image Generation, CVPR 2019 - [Paper](https://arxiv.org/pdf/1904.03349.pdf), [Code](https://github.com/tengteng95/Pose-Transfer)
+- Dense Intrinsic Appearance Flow for Human Pose Transfer, CVPR 2019 - [Paper](https://arxiv.org/pdf/1903.11326v1.pdf), [Code](https://github.com/ly015/intrinsic_flow)
 - Unsupervised Person Image Generation with Semantic Parsing Transformation, CVPR 2019, TPAMI 2020 - [Paper](https://arxiv.org/pdf/1904.03379.pdf), [Code](https://github.com/SijieSong/person_generation_spt)
 - ClothFlow: A Flow-Based Model for Clothed Person Generation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)
 - Progressive Pose Attention Transfer for Person Image Generation, CVPR 2019 - [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Progressive_Pose_Attention_Transfer_for_Person_Image_Generation_CVPR_2019_paper.pdf), [Code](https://github.com/tengteng95/Pose-Transfer)
