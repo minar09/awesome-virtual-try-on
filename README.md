@@ -7,7 +7,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Video Virtual Try-on](#Video-Virtual-Try-on)
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
-- [Appearance/Style/Pose Transfer](#appearance-style-pose-transfer)
+- [Appearance/Style/Pose Transfer](#appearancestylepose-transfer)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Related Repositories](#Related-Repositories)
