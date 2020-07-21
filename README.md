@@ -7,7 +7,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Video Virtual Try-on](#Video-Virtual-Try-on)
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
-- [Appearance/Style/Pose Transfer](#appearancestylepose-transfer)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Related Repositories](#Related-Repositories)
@@ -116,8 +115,11 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Pose-Guided Human Synthesis
+- Controllable Person Image Synthesis with Attribute-Decomposed GAN, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.12267.pdf), [Code](https://github.com/menyifang/ADGAN)
 - Deep Image Spatial Transformation for Person Image Generation, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.00696v2.pdf), [Code](https://github.com/RenYurui/Global-Flow-Local-Attention)
+- Neural Pose Transfer by Spatially Adaptive Instance Normalization, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.07254v2.pdf), [Code](https://github.com/jiashunwang/Neural-Pose-Transfer)
 - Guided Image-to-Image Translation with Bi-Directional Feature Transformation, ICCV 2019 - [Paper](https://arxiv.org/pdf/1910.11328v1.pdf), [Code](https://github.com/vt-vl-lab/Guided-pix2pix)
+- ClothFlow: A Flow-Based Model for Clothed Person Generation, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)
 - Progressive Pose Attention for Person Image Generation, CVPR 2019 - [Paper](https://arxiv.org/pdf/1904.03349.pdf), [Code](https://github.com/tengteng95/Pose-Transfer)
 - Dense Intrinsic Appearance Flow for Human Pose Transfer, CVPR 2019 - [Paper](https://arxiv.org/pdf/1903.11326v1.pdf), [Code](https://github.com/ly015/intrinsic_flow)
 - Unsupervised Person Image Generation with Semantic Parsing Transformation, CVPR 2019, TPAMI 2020 - [Paper](https://arxiv.org/pdf/1904.03379.pdf), [Code](https://github.com/SijieSong/person_generation_spt)
@@ -127,14 +129,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Pose-Normalized Image Generation for Person Re-identification, ECCV 2018 - [Paper](https://arxiv.org/pdf/1712.02225.pdf)
 - Disentangled Person Image Generation, CVPR 2018 - [Paper/Code/Data](https://homes.esat.kuleuven.be/~liqianma/CVPR18_DPIG/index.html)
 - A Variational U-Net for Conditional Appearance and Shape Generation, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.04694.pdf), [Code](https://github.com/CompVis/vunet)
-- Pose guided person image generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf), [Code](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
-
-
-
-## Appearance/Style/Pose Transfer
-- Neural Pose Transfer by Spatially Adaptive Instance Normalization, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.07254v2.pdf), [Code](https://github.com/jiashunwang/Neural-Pose-Transfer)
 - Human Appearance Transfer, CVPR 2018 - [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zanfir_Human_Appearance_Transfer_CVPR_2018_paper.pdf)
-- ClothFlow: A Flow-Based Model for Clothed Person Generation, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)
+- Pose guided person image generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf), [Code](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
 
 
 
