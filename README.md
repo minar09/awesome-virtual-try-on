@@ -14,6 +14,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Image-based (2D) Virtual Try-on
 
+  #### ECCV 2020
+  - Do Not Mask What You Do Not Need to Mask: a Parser Free Virtual Try-On - [Paper](https://arxiv.org/pdf/2007.02721.pdf)
+  
   #### CVPR 2020
   - Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On)
   - Image Based Virtual Try-On Network From Unpaired Data - [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html)
@@ -55,6 +58,13 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## 3D Virtual Try-on
+
+  #### ECCV 2020
+  - GAN-based Garment Generation Using Sewing Pattern Images - [Paper/Code/Model/Data](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
+  - Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images - [Paper/Data](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
+  - SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing - [Paper](https://arxiv.org/pdf/2007.11610.pdf)
+  - CLOTH3D: Clothed 3D Humans - [Paper](https://arxiv.org/pdf/1912.02792.pdf)
+
 
   #### CVPR 2020
   - Learning to Transfer Texture from Clothing Images to 3D Humans - [Paper/Code](http://virtualhumans.mpi-inf.mpg.de/pix2surf/)
