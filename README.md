@@ -60,9 +60,10 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 ## 3D Virtual Try-on
 
   #### ECCV 2020
+  - BCNet: Learning Body and Cloth Shape from A Single Image - [Paper](https://arxiv.org/pdf/2004.00214.pdf), [Code/Data](https://github.com/jby1993/BCNet)
   - GAN-based Garment Generation Using Sewing Pattern Images - [Paper/Code/Model/Data](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
   - Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images - [Paper/Data](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/)
-  - SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing - [Paper](https://arxiv.org/pdf/2007.11610.pdf)
+  - SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing - [Paper/Code/Data](https://virtualhumans.mpi-inf.mpg.de/sizer/)
   - CLOTH3D: Clothed 3D Humans - [Paper](https://arxiv.org/pdf/1912.02792.pdf)
 
 
