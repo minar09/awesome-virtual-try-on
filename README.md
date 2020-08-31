@@ -23,7 +23,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   
   #### CVPRW 2020
   - CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On - [Paper/Code/Data/Model](https://minar09.github.io/cpvtonplus/)
-  - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On - [Paper/Code](https://minar09.github.io/c3dvton/)
+  - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On - [Paper/Project](https://minar09.github.io/c3dvton/)
 
   #### ICCV 2019
   - VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)
@@ -84,7 +84,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
-  - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Code](https://minar09.github.io/c3dvton/)
+  - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Project](https://minar09.github.io/c3dvton/)
   - Learning-Based Animation of Clothing for Virtual Try-On, Eurographics 2019 - [Paper](https://arxiv.org/abs/1903.07190v1)
   - Learning an Intrinsic Garment Space for Interactive Authoring of Garment Animation, SIGGRAPH Asia 2019 - [Paper/Code](http://geometry.cs.ucl.ac.uk/projects/2019/garment_authoring/)
   - 3D Virtual Garment Modeling from RGB Images, ISMAR 2019 - [Paper](https://arxiv.org/abs/1908.00114)
