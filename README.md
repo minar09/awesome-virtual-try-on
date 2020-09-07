@@ -44,6 +44,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
   
   #### Others
+  - Virtual Try-On With Generative Adversarial Networks: A Taxonomical Survey - [Book chapter](https://www.igi-global.com/chapter/virtual-try-on-with-generative-adversarial-networks/260791)
   - LGVTON: A Landmark Guided Approach to Virtual Try-On - [Paper](https://arxiv.org/abs/2004.00562v1)
   - SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On, WACV 2020 - [Paper](http://openaccess.thecvf.com/content_WACV_2020/html/Jandial_SieveNet_A_Unified_Framework_for_Robust_Image-Based_Virtual_Try-On_WACV_2020_paper.html)
   - GarmentGAN: Photo-realistic Adversarial Fashion Transfer - [Paper](https://arxiv.org/abs/2003.01894)
