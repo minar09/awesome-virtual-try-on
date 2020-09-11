@@ -20,6 +20,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### CVPR 2020
   - Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On)
   - Image Based Virtual Try-On Network From Unpaired Data - [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html)
+  - Semantically Multi-modal Image Synthesis - [Paper/Code/Model](https://seanseattle.github.io/SMIS/)
   
   #### CVPRW 2020
   - CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On - [Paper/Code/Data/Model](https://minar09.github.io/cpvtonplus/)
@@ -68,7 +69,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing - [Paper/Code/Data](https://virtualhumans.mpi-inf.mpg.de/sizer/)
   - CLOTH3D: Clothed 3D Humans - [Paper](https://arxiv.org/pdf/1912.02792.pdf)
 
-
   #### CVPR 2020
   - Learning to Transfer Texture from Clothing Images to 3D Humans - [Paper/Code](http://virtualhumans.mpi-inf.mpg.de/pix2surf/)
   - TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style - [Paper/Code/Data](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
@@ -86,6 +86,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
+  - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, SIGGRAPH 2020 - [Paper](https://arxiv.org/pdf/2009.04592.pdf)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Project](https://minar09.github.io/c3dvton/)
   - Learning-Based Animation of Clothing for Virtual Try-On, Eurographics 2019 - [Paper](https://arxiv.org/abs/1903.07190v1)
   - Learning an Intrinsic Garment Space for Interactive Authoring of Garment Animation, SIGGRAPH Asia 2019 - [Paper/Code](http://geometry.cs.ucl.ac.uk/projects/2019/garment_authoring/)
