@@ -14,6 +14,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Image-based (2D) Virtual Try-on
 
+  #### ACCV 2020
+  - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON - [Project](https://minar09.github.io/clothvton/)
+
   #### ECCV 2020
   - Do Not Mask What You Do Not Need to Mask: a Parser Free Virtual Try-On - [Paper](https://arxiv.org/pdf/2007.02721.pdf)
   
@@ -86,6 +89,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
+  - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, ACCV 2020 - [Project](https://minar09.github.io/clothvton/)
   - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, SIGGRAPH 2020 - [Paper](https://arxiv.org/pdf/2009.04592.pdf)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Project](https://minar09.github.io/c3dvton/)
   - Learning-Based Animation of Clothing for Virtual Try-On, Eurographics 2019 - [Paper](https://arxiv.org/abs/1903.07190v1)
