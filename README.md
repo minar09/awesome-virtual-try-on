@@ -91,6 +91,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### Others
   - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, ACCV 2020 - [Project](https://minar09.github.io/clothvton/)
   - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, SIGGRAPH 2020 - [Paper](https://arxiv.org/pdf/2009.04592.pdf)
+  - DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D Garment Animation - [Paper](https://arxiv.org/pdf/2009.02715.pdf)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Project](https://minar09.github.io/c3dvton/)
   - Learning-Based Animation of Clothing for Virtual Try-On, Eurographics 2019 - [Paper](https://arxiv.org/abs/1903.07190v1)
   - Learning an Intrinsic Garment Space for Interactive Authoring of Garment Animation, SIGGRAPH Asia 2019 - [Paper/Code](http://geometry.cs.ucl.ac.uk/projects/2019/garment_authoring/)
@@ -123,13 +124,16 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Unsupervised Image-to-Video Clothing Transfer, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Pumarola_Unsupervised_Image-to-Video_Clothing_Transfer_ICCVW_2019_paper.html)
 
 
+
 ## Non-clothing Virtual Try-on
+- CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer - [Paper](https://arxiv.org/pdf/2008.10298.pdf)
 - Regularized Adversarial Training for Single-Shot Virtual Try-On, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kikuchi_Regularized_Adversarial_Training_for_Single-Shot_Virtual_Try-On_ICCVW_2019_paper.html)
 - Disentangled Makeup Transfer with Generative Adversarial Network - [Paper](https://arxiv.org/pdf/1907.01144v1.pdf)
 - PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion, ACCV 2018 - [Paper](https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf)
 - Virtual Try-on of Eyeglasses using 3D Model of the Head - [Paper](https://dl.acm.org/doi/pdf/10.1145/2087756.2087838)
 - A MIXED REALITY SYSTEM FOR VIRTUAL GLASSES TRY-ON - [Paper](https://dl.acm.org/doi/pdf/10.1145/2087756.2087816)
 - A virtual try-on system in augmented reality using RGB-D cameras for footwear personalization - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0278612514000594)
+
 
 
 ## Pose-Guided Human Synthesis
