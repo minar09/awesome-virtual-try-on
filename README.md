@@ -113,8 +113,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - FIT-ME: IMAGE-BASED VIRTUAL TRY-ON WITH ARBITRARY POSES, ICIP 2019 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803681&casa_token=2CL5K9pwy1IAAAAA:OTa5P-h6RWj9BdQVvkxQURR8tDy4Eg1BZynYOizMyQACnE-zL_EHu2xRzyXBOWijP_cItaO4)
 - Virtually Trying on New Clothing with Arbitrary Poses, ACM MM 2019 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3350946?casa_token=w7EzejnZIaEAAAAA:KvDBsi1xYswuQuzEdJO-rsTDvysnSLYlAYi1J2st5lf8lnyotm5-umPKQupGaMEPUGxyBzijUkA9)
 - FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information, ACM MM 2019 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3343031.3351075?casa_token=7y85FCo6B-QAAAAA:diZbVYmcSK13bMQ94MzrMG_-VvVG_oNFoGpI8wCBFJ_dHEzYnLBAPn2ZwbAgj_pmOWFMD6_1hOuk)
-- Pose Guided Fashion Image Synthesis Using Deep Generative Model - [Paper](https://arxiv.org/pdf/1906.07251.pdf)
-- Pose Guided Person Image Generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf)
+
   
   
   
@@ -148,6 +147,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Progressive Pose Attention for Person Image Generation, CVPR 2019 - [Paper](https://arxiv.org/pdf/1904.03349.pdf), [Code](https://github.com/tengteng95/Pose-Transfer)
 - Dense Intrinsic Appearance Flow for Human Pose Transfer, CVPR 2019 - [Paper](https://arxiv.org/pdf/1903.11326v1.pdf), [Code](https://github.com/ly015/intrinsic_flow)
 - Unsupervised Person Image Generation with Semantic Parsing Transformation, CVPR 2019, TPAMI 2020 - [Paper](https://arxiv.org/pdf/1904.03379.pdf), [Code](https://github.com/SijieSong/person_generation_spt)
+- Pose Guided Fashion Image Synthesis Using Deep Generative Model - [Paper](https://arxiv.org/pdf/1906.07251.pdf)
 - Synthesizing Images of Humans in Unseen Poses, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.07739.pdf), [Code](https://github.com/balakg/posewarp-cvpr2018)
 - Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis, NeurIPS 2018 - [Paper](https://arxiv.org/pdf/1810.11610.pdf)
 - Deformable GANs for Pose-based Human Image Generation, CVPR 2018 - [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Siarohin_Deformable_GANs_for_CVPR_2018_paper.pdf)
@@ -156,6 +156,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - A Variational U-Net for Conditional Appearance and Shape Generation, CVPR 2018 - [Paper](https://arxiv.org/pdf/1804.04694.pdf), [Code](https://github.com/CompVis/vunet)
 - Human Appearance Transfer, CVPR 2018 - [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zanfir_Human_Appearance_Transfer_CVPR_2018_paper.pdf)
 - Pose guided person image generation, NeurIPS 2017 - [Paper](https://arxiv.org/pdf/1705.09368.pdf), [Code](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
+
 
 
 
