@@ -136,6 +136,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Pose-Guided Human Synthesis
+- Pose-Guided High-Resolution Appearance Transfer via Progressive Training - [Paper](https://arxiv.org/pdf/2008.11898.pdf)
 - Recapture as You Want - [Paper](https://arxiv.org/pdf/2006.01435.pdf)
 - Generating Person Images with Appearance-aware Pose Stylizer, IJCAI 2020 - [Paper](https://arxiv.org/pdf/2007.09077.pdf), [Code](https://github.com/siyuhuang/PoseStylizer)
 - Controllable Person Image Synthesis with Attribute-Decomposed GAN, CVPR 2020 - [Paper](https://arxiv.org/pdf/2003.12267.pdf), [Code](https://github.com/menyifang/ADGAN)
