@@ -90,10 +90,10 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
   #### Others
   - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, ACCV 2020 - [Project](https://minar09.github.io/clothvton/)
-  - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, SIGGRAPH 2020 - [Paper](https://arxiv.org/pdf/2009.04592.pdf)
+  - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, ACM SCA 2020 - [Paper/Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn)
   - DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D Garment Animation - [Paper](https://arxiv.org/pdf/2009.02715.pdf)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On, CVPRW 2020 - [Paper/Project](https://minar09.github.io/c3dvton/)
-  - Learning-Based Animation of Clothing for Virtual Try-On, Eurographics 2019 - [Paper](https://arxiv.org/abs/1903.07190v1)
+  - Learning-Based Animation of Clothing for Virtual Try-On, Eurographics 2019 - [Paper/Project](http://dancasas.github.io/projects/LearningBasedVirtualTryOn/index.html)
   - Learning an Intrinsic Garment Space for Interactive Authoring of Garment Animation, SIGGRAPH Asia 2019 - [Paper/Code](http://geometry.cs.ucl.ac.uk/projects/2019/garment_authoring/)
   - 3D Virtual Garment Modeling from RGB Images, ISMAR 2019 - [Paper](https://arxiv.org/abs/1908.00114)
   - Deep Garment Image Matting for a Virtual Try-on System, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Shin_Deep_Garment_Image_Matting_for_a_Virtual_Try-on_System_ICCVW_2019_paper.html)
