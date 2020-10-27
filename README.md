@@ -136,6 +136,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Pose-Guided Human Synthesis
+- PoNA: Pose-Guided Non-Local Attention for Human Pose Transfer, IEEE T-IP 2020 - [Paper](https://ieeexplore.ieee.org/abstract/document/9222550)
 - Pose-Guided High-Resolution Appearance Transfer via Progressive Training - [Paper](https://arxiv.org/pdf/2008.11898.pdf)
 - Recapture as You Want - [Paper](https://arxiv.org/pdf/2006.01435.pdf)
 - Generating Person Images with Appearance-aware Pose Stylizer, IJCAI 2020 - [Paper](https://arxiv.org/pdf/2007.09077.pdf), [Code](https://github.com/siyuhuang/PoseStylizer)
