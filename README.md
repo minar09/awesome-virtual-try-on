@@ -55,6 +55,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - GarmentGAN: Photo-realistic Adversarial Fashion Transfer - [Paper](https://arxiv.org/abs/2003.01894)
   - Toward Accurate and Realistic Virtual Try-on Through Shape Matching and Multiple Warps - [Paper](https://arxiv.org/abs/2003.10817)
   - FashionFit Analysis of Mapping 3D Pose and neural body fit for custom virtual try-on, IEEE Access 2020 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9091008)
+  - Inpainting-Based Virtual Try-on Network for Selective Garment Transfer, IEEE Access 2019 - [Paper](https://ieeexplore.ieee.org/document/8836494)
   - SP-VITON: shape-preserving image-based virtual try-on network, Multimedia Tools and Applications 2019 - [Paper](https://link.springer.com/article/10.1007/s11042-019-08363-w)
   - VITON-GAN: Virtual Try-on Image Generator Trained with Adversarial Loss, Eurographics 2019 Posters - [Paper](https://arxiv.org/abs/1911.07926v1), [Code/Model](https://github.com/shionhonda/viton-gan)
   - Image-Based Virtual Try-on Network with Structural Coherence, ICIP 2019 - [Paper](https://ieeexplore.ieee.org/document/8803811)
