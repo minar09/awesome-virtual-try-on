@@ -48,6 +48,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
   
   #### Others
+  - NDNet: Natural Deformation Of Apparel For Better Virtual Try-On Experience, ACM SAC 2021
   - Keypoints-Based 2D Virtual Try-on Network System, JAKO 2020 - [Paper](https://www.koreascience.or.kr/article/JAKO202010163508810.pdf)
   - Virtual Try-On With Generative Adversarial Networks: A Taxonomical Survey - [Book chapter](https://www.igi-global.com/chapter/virtual-try-on-with-generative-adversarial-networks/260791)
   - LGVTON: A Landmark Guided Approach to Virtual Try-On - [Paper](https://arxiv.org/abs/2004.00562v1)
