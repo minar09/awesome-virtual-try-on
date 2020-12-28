@@ -122,12 +122,14 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   
 ## Video Virtual Try-on
 
+- ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
 - FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html)
 - Unsupervised Image-to-Video Clothing Transfer, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Pumarola_Unsupervised_Image-to-Video_Clothing_Transfer_ICCVW_2019_paper.html)
 
 
 
 ## Non-clothing Virtual Try-on
+- FITTINTM - Online 3D Shoe Try-on, 3DBODY.TECH 2020 - [Paper](http://www.3dbodyscanning.org/cap/papers/2020/2058revkov.pdf)
 - CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer - [Paper](https://arxiv.org/pdf/2008.10298.pdf)
 - Regularized Adversarial Training for Single-Shot Virtual Try-On, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kikuchi_Regularized_Adversarial_Training_for_Single-Shot_Virtual_Try-On_ICCVW_2019_paper.html)
 - Disentangled Makeup Transfer with Generative Adversarial Network - [Paper](https://arxiv.org/pdf/1907.01144v1.pdf)
