@@ -92,6 +92,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
+  - GarNet++: Improving Fast and Accurate Static3D Cloth Draping by Curvature Loss, IEEE T-PAMI, 2020 - [Paper](https://arxiv.org/abs/2007.10867)
+  - DeepCloth: Neural Garment Representation for Shape and Style Editing - [Paper](https://arxiv.org/abs/2011.14619)
   - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, ACCV 2020 - [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Minar_CloTH-VTON_Clothing_Three-dimensional_reconstruction_for_Hybrid_image-based_Virtual_Try-ON_ACCV_2020_paper.html), [Project](https://minar09.github.io/clothvton/)
   - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, ACM SCA 2020 - [Paper/Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn)
   - DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D Garment Animation - [Paper](https://arxiv.org/pdf/2009.02715.pdf)
