@@ -48,7 +48,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
   
   #### Others
-  - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper/Project](https://minar09.github.io/clothvtonplus/)
+  - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
   - VITON-GT: An Image-based Virtual Try-On Model with Geometric Transformations, ICPR 2020 - [Paper](https://iris.unimore.it/retrieve/312578/2020_ICPR_Virtual_Try_On.pdf)
   - VOGUE: Try-On by StyleGAN Interpolation Optimization - [Paper/Project](https://vogue-try-on.github.io/)
   - Deep Virtual Try-on with Clothes Transform, ICS 2018 - [Paper](https://link.springer.com/chapter/10.1007/978-981-13-9190-3_22), [Code](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform)
@@ -95,7 +95,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
-  - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper/Project](https://minar09.github.io/clothvtonplus/)
+  - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
   - Physically Based Neural Simulator for Garment Animation - [Paper](https://arxiv.org/pdf/2012.11310.pdf)
   - GarNet++: Improving Fast and Accurate Static3D Cloth Draping by Curvature Loss, IEEE T-PAMI, 2020 - [Paper](https://arxiv.org/abs/2007.10867)
   - DeepCloth: Neural Garment Representation for Shape and Style Editing - [Paper](https://arxiv.org/abs/2011.14619)
