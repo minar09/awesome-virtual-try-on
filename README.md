@@ -53,6 +53,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
   
   #### Others
+  - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing. [Paper](https://arxiv.org/abs/2104.07021)
+  - Cloth Interactive Transformer for Virtual Try-On. [Paper](https://arxiv.org/abs/2104.05519) [Code/Model](https://github.com/Amazingren/CIT)
   - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
   - VITON-GT: An Image-based Virtual Try-On Model with Geometric Transformations, ICPR 2020 - [Paper](https://iris.unimore.it/retrieve/312578/2020_ICPR_Virtual_Try_On.pdf)
   - VOGUE: Try-On by StyleGAN Interpolation Optimization - [Paper/Project](https://vogue-try-on.github.io/)
@@ -137,7 +139,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
 - FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html)
 - Unsupervised Image-to-Video Clothing Transfer, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Pumarola_Unsupervised_Image-to-Video_Clothing_Transfer_ICCVW_2019_paper.html)
-
+- Garment Replacement in Monocular Video Sequences, ACM TOG 2014 - [Paper](https://dl.acm.org/doi/10.1145/2634212)
 
 
 ## Non-clothing Virtual Try-on
@@ -207,6 +209,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Awesome 3D Human](https://github.com/lijiaman/awesome-3d-human)
 - [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 - [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
+- [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
 
 
 #### Pull requests are welcome!
