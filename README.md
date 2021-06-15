@@ -18,6 +18,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Parser-Free Virtual Try-on via Distilling Appearance Flows - [Paper](https://arxiv.org/pdf/2103.04559.pdf), [Code/Data/Model](https://github.com/geyuying/PF-AFN)
   - VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf)
   - Disentangled Cycle Consistency for Highly-realistic Virtual Try-On - [Paper](https://arxiv.org/pdf/2103.09479.pdf), [Code/Data/Model](https://github.com/ChongjianGE/DCTON)
+  - Toward Accurate and Realistic Outfits Visualization with Attention to Details - [Paper](https://arxiv.org/abs/2106.06593), [Demo](https://revery.ai/demo.html)
 
   #### ACCV 2020
   - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON - [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Minar_CloTH-VTON_Clothing_Three-dimensional_reconstruction_for_Hybrid_image-based_Virtual_Try-ON_ACCV_2020_paper.html), [Project](https://minar09.github.io/clothvton/)
@@ -78,6 +79,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## 3D Virtual Try-on
 
+  #### CVPR 2021
+  - Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On - [Paper](https://arxiv.org/abs/2105.06462) [Project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/)
   #### ECCV 2020
   - BCNet: Learning Body and Cloth Shape from A Single Image - [Paper](https://arxiv.org/pdf/2004.00214.pdf), [Code/Data](https://github.com/jby1993/BCNet)
   - GAN-based Garment Generation Using Sewing Pattern Images - [Paper/Code/Model/Data](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
