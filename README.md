@@ -80,7 +80,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 ## 3D Virtual Try-on
 
   #### CVPR 2021
-  - Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On - [Paper](https://arxiv.org/abs/2105.06462) [Project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/)
+  - Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On - [Paper](https://arxiv.org/abs/2105.06462), [Project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/)
   #### ECCV 2020
   - BCNet: Learning Body and Cloth Shape from A Single Image - [Paper](https://arxiv.org/pdf/2004.00214.pdf), [Code/Data](https://github.com/jby1993/BCNet)
   - GAN-based Garment Generation Using Sewing Pattern Images - [Paper/Code/Model/Data](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
