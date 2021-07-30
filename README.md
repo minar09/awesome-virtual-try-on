@@ -54,6 +54,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
   
   #### Others
+  - Shape Controllable Virtual Try-on for Underwear Models. [Paper](https://arxiv.org/abs/2107.13156)
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing. [Paper](https://arxiv.org/abs/2104.07021)
   - Cloth Interactive Transformer for Virtual Try-On. [Paper](https://arxiv.org/abs/2104.05519) [Code/Model](https://github.com/Amazingren/CIT)
   - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
