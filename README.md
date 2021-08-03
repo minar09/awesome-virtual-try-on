@@ -52,9 +52,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   
   #### CVPR 2018
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
-  
-  #### ACM MM 2021
-
 
   #### Others
   - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386), [Code/Model](https://github.com/xiezhy6/WAS-VTON)
