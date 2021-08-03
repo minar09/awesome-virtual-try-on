@@ -53,6 +53,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### CVPR 2018
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
   
+  #### ACM MM 2021
+  - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386) [Code/Model](https://github.com/xiezhy6/WAS-VTON)
+
   #### Others
   - Shape Controllable Virtual Try-on for Underwear Models. [Paper](https://arxiv.org/abs/2107.13156)
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing. [Paper](https://arxiv.org/abs/2104.07021)
