@@ -54,7 +54,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
-  - SPG-VTON: Semantic Prediction Guidance for Multi-pose Virtual Try-on - [Paper](https://arxiv.org/abs/2108.01578)
   - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386), [Code/Model](https://github.com/xiezhy6/WAS-VTON)
   - Shape Controllable Virtual Try-on for Underwear Models - [Paper](https://arxiv.org/abs/2107.13156)
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://arxiv.org/abs/2104.07021)
@@ -132,6 +131,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Multi-Pose Guided Virtual Try-on
 
+- SPG-VTON: Semantic Prediction Guidance for Multi-pose Virtual Try-on - [Paper](https://arxiv.org/abs/2108.01578)
 - Down to the Last Detail: Virtual Try-on with Fine-grained Details, ACM MM 2020 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413514), [Code/Model](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving), [ArXiv](https://arxiv.org/abs/1912.06324v2)
 - Towards Multi-pose Guided Virtual Try-on Network, ICCV 2019 - [Paper](https://arxiv.org/abs/1902.11026), [Code](https://github.com/thaithanhtuan/MyMGVTON)
 - FIT-ME: IMAGE-BASED VIRTUAL TRY-ON WITH ARBITRARY POSES, ICIP 2019 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803681&casa_token=2CL5K9pwy1IAAAAA:OTa5P-h6RWj9BdQVvkxQURR8tDy4Eg1BZynYOizMyQACnE-zL_EHu2xRzyXBOWijP_cItaO4)
