@@ -81,6 +81,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## 3D Virtual Try-on
 
+  #### ICCV 2021
+  - M3D-VTON: A Monocular-to-3D Virtual Try-On Network - [Paper](https://arxiv.org/abs/2108.05126), [Code](https://github.com/fyviezhao/M3D-VTON)
   #### CVPR 2021
   - Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On - [Paper](https://arxiv.org/abs/2105.06462), [Project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/)
   #### ECCV 2020
@@ -143,6 +145,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   
 ## Video Virtual Try-on
 
+- MV-TON: Memory-based Video Virtual Try-on network, ACM MM 2021 - [Paper](https://arxiv.org/abs/2108.07502)
 - ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
 - FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html)
 - Unsupervised Image-to-Video Clothing Transfer, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Pumarola_Unsupervised_Image-to-Video_Clothing_Transfer_ICCVW_2019_paper.html)
