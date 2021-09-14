@@ -54,6 +54,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Per Garment Capture and Synthesis for Real-time Virtual Try-on, UIST 2021 - [Paper](https://arxiv.org/abs/2109.04654), [Project](https://sites.google.com/view/deepmannequin/home)
   - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386), [Code/Model](https://github.com/xiezhy6/WAS-VTON)
   - Shape Controllable Virtual Try-on for Underwear Models - [Paper](https://arxiv.org/abs/2107.13156)
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://arxiv.org/abs/2104.07021)
@@ -165,6 +166,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Pose-Guided Human Synthesis
+- Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN, SIGGRAPH Asia 2021 - [Paper](https://arxiv.org/abs/2109.06166), [Project](https://pose-with-style.github.io/)
 - PoNA: Pose-Guided Non-Local Attention for Human Pose Transfer, IEEE T-IP 2020 - [Paper](https://ieeexplore.ieee.org/abstract/document/9222550)
 - Pose-Guided High-Resolution Appearance Transfer via Progressive Training - [Paper](https://arxiv.org/pdf/2008.11898.pdf)
 - Recapture as You Want - [Paper](https://arxiv.org/pdf/2006.01435.pdf)
