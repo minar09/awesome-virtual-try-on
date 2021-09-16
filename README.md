@@ -13,7 +13,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Image-based (2D) Virtual Try-on
-
+  #### ICCV 2021
+  - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://arxiv.org/abs/2104.07021), [Code](https://github.com/cuiaiyu/dressing-in-order)
   #### CVPR 2021
   - Parser-Free Virtual Try-on via Distilling Appearance Flows - [Paper](https://arxiv.org/pdf/2103.04559.pdf), [Code/Data/Model](https://github.com/geyuying/PF-AFN)
   - VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf), [Code/Model](https://github.com/shadow2496/VITON-HD)
@@ -57,7 +58,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Per Garment Capture and Synthesis for Real-time Virtual Try-on, UIST 2021 - [Paper](https://arxiv.org/abs/2109.04654), [Project](https://sites.google.com/view/deepmannequin/home)
   - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386), [Code/Model](https://github.com/xiezhy6/WAS-VTON)
   - Shape Controllable Virtual Try-on for Underwear Models - [Paper](https://arxiv.org/abs/2107.13156)
-  - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://arxiv.org/abs/2104.07021)
   - Cloth Interactive Transformer for Virtual Try-On - [Paper](https://arxiv.org/abs/2104.05519), [Code/Model](https://github.com/Amazingren/CIT)
   - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
   - VITON-GT: An Image-based Virtual Try-On Model with Geometric Transformations, ICPR 2020 - [Paper](https://iris.unimore.it/retrieve/312578/2020_ICPR_Virtual_Try_On.pdf)
