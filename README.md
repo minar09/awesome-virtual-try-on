@@ -57,12 +57,14 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Data Augmentation using Random Image Cropping for High-resolution Virtual Try-On (VITON-CROP) - [Paper](https://arxiv.org/abs/2111.08270)
   - Per Garment Capture and Synthesis for Real-time Virtual Try-on, UIST 2021 - [Paper](https://arxiv.org/abs/2109.04654), [Project](https://sites.google.com/view/deepmannequin/home)
   - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386), [Code/Model](https://github.com/xiezhy6/WAS-VTON)
   - Shape Controllable Virtual Try-on for Underwear Models - [Paper](https://arxiv.org/abs/2107.13156)
   - Cloth Interactive Transformer for Virtual Try-On - [Paper](https://arxiv.org/abs/2104.05519), [Code/Model](https://github.com/Amazingren/CIT)
   - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
   - VITON-GT: An Image-based Virtual Try-On Model with Geometric Transformations, ICPR 2020 - [Paper](https://iris.unimore.it/retrieve/312578/2020_ICPR_Virtual_Try_On.pdf)
+  - TryOnGAN: Body-Aware Try-On via Layered Interpolation, SIGGRAPH 2021 - [Paper/Project](https://tryongan.github.io/tryongan/)
   - VOGUE: Try-On by StyleGAN Interpolation Optimization - [Paper/Project](https://vogue-try-on.github.io/)
   - Deep Virtual Try-on with Clothes Transform, ICS 2018 - [Paper](https://link.springer.com/chapter/10.1007/978-981-13-9190-3_22), [Code](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform)
   - NDNet: Natural Deformation Of Apparel For Better Virtual Try-On Experience, ACM SAC 2021
