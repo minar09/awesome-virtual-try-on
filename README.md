@@ -57,6 +57,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN, NeurIPS 2021. - [Paper](https://arxiv.org/abs/2111.10544)
+  - Arbitrary Virtual Try-On Network: Characteristics Preservation and Trade-off between Body and Clothing - [Paper](https://arxiv.org/abs/2111.12346)
+  - PT-VTON: an Image-Based Virtual Try-On Network with Progressive Pose Attention Transfer - [Paper](https://arxiv.org/abs/2111.12167)
   - Data Augmentation using Random Image Cropping for High-resolution Virtual Try-On (VITON-CROP) - [Paper](https://arxiv.org/abs/2111.08270)
   - Per Garment Capture and Synthesis for Real-time Virtual Try-on, UIST 2021 - [Paper](https://arxiv.org/abs/2109.04654), [Project](https://sites.google.com/view/deepmannequin/home)
   - WAS-VTON: Warping Architecture Search for Virtual Try-on Network - [Paper](https://arxiv.org/abs/2108.00386), [Code/Model](https://github.com/xiezhy6/WAS-VTON)
