@@ -161,7 +161,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Non-clothing Virtual Try-on
-- Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example, CVPRW 2021 - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf)
+- Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example, CVPRW 2021 - [Paper](https://arxiv.org/pdf/2105.06407.pdf)
 - FITTINTM - Online 3D Shoe Try-on, 3DBODY.TECH 2020 - [Paper](http://www.3dbodyscanning.org/cap/papers/2020/2058revkov.pdf)
 - CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer - [Paper](https://arxiv.org/pdf/2008.10298.pdf)
 - Regularized Adversarial Training for Single-Shot Virtual Try-On, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kikuchi_Regularized_Adversarial_Training_for_Single-Shot_Virtual_Try-On_ICCVW_2019_paper.html)
