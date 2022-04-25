@@ -16,6 +16,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
   #### CVPR 2022
   - Style-Based Global Appearance Flow for Virtual Try-On - [Paper](https://arxiv.org/abs/2204.01046), [Code/Model](https://github.com/SenHe/Flow-Style-VTON)
+  - Weakly Supervised High-Fidelity Clothing Model Generation - [Paper](https://arxiv.org/pdf/2112.07200.pdf), [Code/Model](https://github.com/RuiLiFeng/Deep-Generative-Projection)
   #### ICCV 2021
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order)
   - ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chopra_ZFlow_Gated_Appearance_Flow-Based_Virtual_Try-On_With_3D_Priors_ICCV_2021_paper.pdf)
