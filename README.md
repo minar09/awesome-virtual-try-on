@@ -177,6 +177,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 
+
 ## Pose-Guided Human Synthesis
 - InsetGAN for Full-Body Image Generation, CVPR 2022. - [Paper](https://arxiv.org/abs/2203.07293), [Project](http://afruehstueck.github.io/insetgan)
 - Dressing in the Wild by Watching Dance Videos, CVPR 2022 - [Paper](https://arxiv.org/abs/2203.15320), [Project](https://awesome-wflow.github.io/)
@@ -207,7 +208,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 
-
 ## Datasets for Virtual Try-on
 
 - VITON - [Download](https://drive.google.com/file/d/1MxCUvKxejnwWnoZ-KoCyMCXo3TLhRuTo/view), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
@@ -221,10 +221,21 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Garment Dataset, Wang et al. 2018 - [Project](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/)
 
 
+
+
 ## Related Conference Workshops
 
 - Workshop on Computer Vision for Fashion, Art and Design: [CVPR 2021](https://sites.google.com/zalando.de/cvfad2021/home), [CVPR 2020](https://sites.google.com/view/cvcreative2020), [ICCV 2019](https://sites.google.com/view/cvcreative), [ECCV 2018](https://sites.google.com/view/eccvfashion)
 - Workshop on Towards Human-Centric Image/Video Synthesis: [CVPR 2020](https://vuhcs.github.io/), [CVPR 2019](https://vuhcs.github.io/vuhcs-2019/index.html)
+
+
+
+
+## Demos
+
+- Looklet Dressing room [Business](https://dressing-room.looklet.com), [Demo](https://dressing-room.looklet.com)
+
+
 
 
 ## Related Repositories
