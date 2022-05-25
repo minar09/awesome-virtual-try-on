@@ -233,7 +233,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Demos
 
-- Looklet Dressing room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
+- Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 
 
 
