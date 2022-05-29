@@ -9,6 +9,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
+- [Demos](#Demos)
 - [Related Repositories](#Related-Repositories)
 
 
