@@ -19,6 +19,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### CVPR 2022
   - Style-Based Global Appearance Flow for Virtual Try-On - [Paper](https://arxiv.org/abs/2204.01046), [Code/Model](https://github.com/SenHe/Flow-Style-VTON)
   - Weakly Supervised High-Fidelity Clothing Model Generation - [Paper](https://arxiv.org/pdf/2112.07200.pdf), [Code/Model](https://github.com/RuiLiFeng/Deep-Generative-Projection)
+  - Dressing in the Wild by Watching Dance Videos - [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.html), [Project](https://awesome-wflow.github.io/)
   #### ICCV 2021
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order)
   - ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chopra_ZFlow_Gated_Appearance_Flow-Based_Virtual_Try-On_With_3D_Priors_ICCV_2021_paper.pdf)
@@ -34,12 +35,12 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
   #### ECCV 2020
   - Do Not Mask What You Do Not Need to Mask: a Parser Free Virtual Try-On - [Paper](https://arxiv.org/pdf/2007.02721.pdf)
-  
+
   #### CVPR 2020
   - Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content - [Paper/Code/Data](https://github.com/switchablenorms/DeepFashion_Try_On)
   - Image Based Virtual Try-On Network From Unpaired Data - [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html)
   - Semantically Multi-modal Image Synthesis - [Paper/Code/Model](https://seanseattle.github.io/SMIS/)
-  
+
   #### CVPRW 2020
   - CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On - [Paper/Code/Data/Model](https://minar09.github.io/cpvtonplus/)
   - 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On - [Paper/Project](https://minar09.github.io/c3dvton/)
@@ -47,7 +48,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### ICCV 2019
   - VTNFP: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_VTNFP_An_Image-Based_Virtual_Try-On_Network_With_Body_and_Clothing_ICCV_2019_paper.html)
   - ClothFlow: A Flow-Based Model for Clothed Person Generation - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.html)
-  
+
   #### ICCVW 2019
   - UVTON: UV Mapping to Consider the 3D Structure of a Human in Image-Based Virtual Try-On Network, [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Kubo_UVTON_UV_Mapping_to_Consider_the_3D_Structure_of_a_ICCVW_2019_paper.html)
   - LA-VITON: A Network for Looking-Attractive Virtual Try-On - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Lee_LA-VITON_A_Network_for_Looking-Attractive_Virtual_Try-On_ICCVW_2019_paper.html)
@@ -58,7 +59,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### ECCV 2018
   - Toward Characteristic-Preserving Image-based Virtual Try-On Network - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bochao_Wang_Toward_Characteristic-Preserving_Image-based_ECCV_2018_paper.pdf), [Code](https://github.com/sergeywong/cp-vton)
   - SwapNet: Garment Transfer in Single View Images - [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), [Code (community contribution)](https://github.com/andrewjong/SwapNet)
-  
+
   #### CVPR 2018
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
@@ -118,7 +119,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
   #### ECCV 2018
   - DeepWrinkles: Accurate and Realistic Clothing Modeling - [Paper](https://arxiv.org/abs/1808.03417)
-  
+
   #### CVPR 2018
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
