@@ -216,6 +216,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - VITON - [Download](https://drive.google.com/file/d/1MxCUvKxejnwWnoZ-KoCyMCXo3TLhRuTo/view), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
 - MPV - [Download](https://drive.google.com/drive/folders/1e3ThRpSj8j9PaCUw8IrqzKPDVJK_grcA), [Paper](https://arxiv.org/abs/1902.11026)
 - Deep Fashion3D - [Paper](https://arxiv.org/abs/2003.12753)
+- DeepFashion MultiModal - [Download](https://github.com/yumingj/DeepFashion-MultiModal)
 - Digital Wardrobe - [Download/Paper/Project](http://virtualhumans.mpi-inf.mpg.de/mgn/)
 - TailorNet Dataset - [Download](https://github.com/zycliao/TailorNet_dataset), [Project](http://virtualhumans.mpi-inf.mpg.de/tailornet/)
 - CLOTH3D - [Paper](https://arxiv.org/abs/1912.02792)
