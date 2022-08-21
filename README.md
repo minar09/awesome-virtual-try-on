@@ -151,6 +151,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
+  - Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems - [Paper](https://arxiv.org/pdf/2111.15140.pdf)
   - REALISTIC MONOCULAR-TO-3D VIRTUAL TRY-ON VIA MULTI-SCALE CHARACTERISTICS CAPTURE, ICASSP 2022 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747277&casa_token=EALQVtpxonwAAAAA:GKEdQBbsji39XrEgGiSk7pJWgRB1KAH2me79_hsuaPSYTUfVn76h3Jyavxuk57CCWI6HYPRhRUk)
   - Point-Based Modeling of Human Clothing - [Paper](https://arxiv.org/pdf/2104.08230.pdf)
   - CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9354778), [Project](https://minar09.github.io/clothvtonplus/)
