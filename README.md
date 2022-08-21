@@ -14,9 +14,6 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Image-based (2D) Virtual Try-on
-  #### CVPRW 2022
-  - Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
-  - Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code)
   #### WACV 2022
   - C-VTON: Context-Driven Image-Based Virtual Try-On Network - [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Fele_C-VTON_Context-Driven_Image-Based_Virtual_Try-On_Network_WACV_2022_paper.pdf), [Code/Model/Data](https://github.com/benquick123/C-VTON)
   #### ECCV 2022
@@ -28,6 +25,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Style-Based Global Appearance Flow for Virtual Try-On - [Paper](https://arxiv.org/abs/2204.01046), [Code/Model](https://github.com/SenHe/Flow-Style-VTON)
   - Weakly Supervised High-Fidelity Clothing Model Generation - [Paper](https://arxiv.org/pdf/2112.07200.pdf), [Code/Model](https://github.com/RuiLiFeng/Deep-Generative-Projection)
   - Dressing in the Wild by Watching Dance Videos - [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.html), [Project](https://awesome-wflow.github.io/)
+  #### CVPRW 2022
+  - Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
+  - Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code)
   #### ICCV 2021
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order)
   - ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chopra_ZFlow_Gated_Appearance_Flow-Based_Virtual_Try-On_With_3D_Priors_ICCV_2021_paper.pdf)
@@ -72,6 +72,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Probing TryOnGAN, CODS-COMAD 2022 - [Paper](https://arxiv.org/pdf/2201.01703.pdf)
   - FitGAN: Fit- and Shape-Realistic Generative Adversarial Networks for Fashion - [Paper](https://arxiv.org/pdf/2206.11768.pdf)
   - Spatial Transformation for Image Composition via Correspondence Learning - [Paper](https://arxiv.org/pdf/2207.02398.pdf)
   - PASTA-GAN++: A Versatile Framework for High-Resolution Unpaired Virtual Try-on - [Paper](https://arxiv.org/pdf/2207.13475.pdf)
