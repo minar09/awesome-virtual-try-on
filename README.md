@@ -22,6 +22,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions - [Paper](https://arxiv.org/abs/2206.14180), [Code/Model](https://github.com/sangyun884/HR-VITON)
   - Single Stage Virtual Try-on via Deformable Attention Flows - [Paper](https://arxiv.org/abs/2207.09161), [Code/Model](https://github.com/OFA-Sys/DAFlow)
   #### CVPR 2022
+  - Full-Range Virtual Try-On with Recurrent Tri-Level Transform - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Full-Range_Virtual_Try-On_With_Recurrent_Tri-Level_Transform_CVPR_2022_paper.pdf), [Project](https://lzqhardworker.github.io/RT-VTON/)
   - Style-Based Global Appearance Flow for Virtual Try-On - [Paper](https://arxiv.org/abs/2204.01046), [Code/Model](https://github.com/SenHe/Flow-Style-VTON)
   - Weakly Supervised High-Fidelity Clothing Model Generation - [Paper](https://arxiv.org/pdf/2112.07200.pdf), [Code/Model](https://github.com/RuiLiFeng/Deep-Generative-Projection)
   - Dressing in the Wild by Watching Dance Videos - [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.html), [Project](https://awesome-wflow.github.io/)
