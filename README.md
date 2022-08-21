@@ -72,6 +72,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Spatial Transformation for Image Composition via Correspondence Learning - [Paper](https://arxiv.org/pdf/2207.02398.pdf)
   - PASTA-GAN++: A Versatile Framework for High-Resolution Unpaired Virtual Try-on - [Paper](https://arxiv.org/pdf/2207.13475.pdf)
   - Significance of Skeleton-based Features in Virtual Try-On - [Paper](https://arxiv.org/pdf/2208.08076.pdf)
   - You can try without visiting: a comprehensive survey on virtually try-on outfits, Multimedia Tools and Applications - [Paper](https://link.springer.com/article/10.1007/s11042-022-12802-6)
