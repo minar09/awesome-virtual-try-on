@@ -105,6 +105,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## 3D Virtual Try-on
 
+  #### WACV 2022
+  - Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems - [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Majithia_Robust_3D_Garment_Digitization_From_Monocular_2D_Images_for_3D_WACV_2022_paper.pdf)
   #### ICCV 2021
   - M3D-VTON: A Monocular-to-3D Virtual Try-On Network - [Paper](https://arxiv.org/abs/2108.05126), [Code](https://github.com/fyviezhao/M3D-VTON)
   #### CVPR 2021
