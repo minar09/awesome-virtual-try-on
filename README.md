@@ -69,6 +69,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - A Flow-Based Generative Network for Photo-Realistic Virtual Try-On, IEEE Access 2022 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9757136), [Code/Model/Data](https://github.com/gxl-groups/FVNT)
   - Cross-category Virtual Try-on Technology Research Based on PF-AFN, ICVIP 2021 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3511176.3511201?casa_token=RY8suIYfg-8AAAAA:ce3F43Et11IaFISkObmvOedFz5FrH0B6QnSHPu3Ro8_GEOLKGdf8qoww1RY5V9zdGm7T9sxpND15Wcs)
   - Virtual Try-on Network With Attribute Transformation and Local Rendering, IEEE TRANSACTIONS ON MULTIMEDIA, 2021 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9397349&casa_token=q6ADdrsxPToAAAAA:5_PjUtYaX9d37HGetPpsvpQApUMhfCitOIOAlDpCSqW57AbRLc3Z3M0CR4vdbHsvdaEQ4qbYTkI)
   - Transform, Warp, and Dress: A New Transformation-guided Model for Virtual Try-on, ACM Trans. Multimedia Comput. Commun. Appl. 2022 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3491226?casa_token=7bTieMExNlkAAAAA%3AjGDdaeAR0HQ-M0ZO2u3olmaVjf3W_XtVgK5wPdgKiPhLP4F1yRUA28c7teapiVedba5FlPrfBTSvnC4)
