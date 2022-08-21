@@ -86,6 +86,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VTNCT: an image-based virtual try-on network by combining feature with pixel transformation, The Visual Computer 2022 - [Paper](https://link.springer.com/article/10.1007/s00371-022-02480-8)
   - RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on, IJCAI-ECAI 2022 - [Paper](https://arxiv.org/pdf/2204.11258.pdf), [Code/Model/Data](https://github.com/jokerlc/RMGN-VITON)
   - A Flow-Based Generative Network for Photo-Realistic Virtual Try-On, IEEE Access 2022 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9757136), [Code/Model/Data](https://github.com/gxl-groups/FVNT)
+  - An Efficient Style Virtual Try on Network for Clothing Business Industry - [Paper](https://arxiv.org/pdf/2105.13183.pdf)
   - Cross-category Virtual Try-on Technology Research Based on PF-AFN, ICVIP 2021 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3511176.3511201?casa_token=RY8suIYfg-8AAAAA:ce3F43Et11IaFISkObmvOedFz5FrH0B6QnSHPu3Ro8_GEOLKGdf8qoww1RY5V9zdGm7T9sxpND15Wcs)
   - Virtual Try-on Network With Attribute Transformation and Local Rendering, IEEE TRANSACTIONS ON MULTIMEDIA, 2021 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9397349&casa_token=q6ADdrsxPToAAAAA:5_PjUtYaX9d37HGetPpsvpQApUMhfCitOIOAlDpCSqW57AbRLc3Z3M0CR4vdbHsvdaEQ4qbYTkI)
   - Transform, Warp, and Dress: A New Transformation-guided Model for Virtual Try-on, ACM Trans. Multimedia Comput. Commun. Appl. 2022 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3491226?casa_token=7bTieMExNlkAAAAA%3AjGDdaeAR0HQ-M0ZO2u3olmaVjf3W_XtVgK5wPdgKiPhLP4F1yRUA28c7teapiVedba5FlPrfBTSvnC4)
@@ -199,8 +200,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Non-clothing Virtual Try-on
-- ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones, ACM Multimedia 2021 - [Paper](https://arxiv.org/pdf/2108.10515.pdf)
 - Real-time Virtual-Try-On from a Single Example Image through Deep Inverse Graphics and Learned Differentiable Renderers, EUROGRAPHICS 2022 - [Paper](https://arxiv.org/pdf/2205.06305.pdf)
+- ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones, ACM Multimedia 2021 - [Paper](https://arxiv.org/pdf/2108.10515.pdf)
 - Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example, CVPRW 2021 - [Paper](https://arxiv.org/pdf/2105.06407.pdf)
 - FITTINTM - Online 3D Shoe Try-on, 3DBODY.TECH 2020 - [Paper](http://www.3dbodyscanning.org/cap/papers/2020/2058revkov.pdf)
 - CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer - [Paper](https://arxiv.org/pdf/2008.10298.pdf)
