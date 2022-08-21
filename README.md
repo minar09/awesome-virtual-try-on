@@ -70,6 +70,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - St-Vton: Self-Supervised Vision Transformer for Image-Based Virtual Try-On - [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140115)
   - Photo-Realistic Virtual Try-On with Enhanced Warping Module, Advances in Intelligent Systems and Computing 2022 - [Paper](https://link.springer.com/chapter/10.1007/978-981-16-5157-1_66)
   - Virtual Try-On Using Augmented Reality - [Paper](https://link.springer.com/chapter/10.1007/978-981-19-1122-4_54)
   - WG-VITON: Wearing-Guide Virtual Try-On for Top and Bottom Clothes - [Paper](https://arxiv.org/pdf/2205.04759.pdf)
