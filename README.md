@@ -208,6 +208,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Pose-Guided Human Synthesis
+- Cross Attention Based Style Distribution for Controllable Person Image Synthesis - [Paper](https://arxiv.org/pdf/2208.00712.pdf)
 - InsetGAN for Full-Body Image Generation, CVPR 2022. - [Paper](https://arxiv.org/abs/2203.07293), [Project](http://afruehstueck.github.io/insetgan)
 - Dressing in the Wild by Watching Dance Videos, CVPR 2022 - [Paper](https://arxiv.org/abs/2203.15320), [Project](https://awesome-wflow.github.io/)
 - Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN, SIGGRAPH Asia 2021 - [Paper](https://arxiv.org/abs/2109.06166), [Project](https://pose-with-style.github.io/)
