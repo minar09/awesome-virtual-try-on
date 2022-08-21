@@ -15,6 +15,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Image-based (2D) Virtual Try-on
   #### CVPRW 2022
+  - Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
   - Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code)
   #### WACV 2022
   - C-VTON: Context-Driven Image-Based Virtual Try-On Network - [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Fele_C-VTON_Context-Driven_Image-Based_Virtual_Try-On_Network_WACV_2022_paper.pdf), [Code/Model/Data](https://github.com/benquick123/C-VTON)
