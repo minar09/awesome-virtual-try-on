@@ -70,6 +70,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Virtual Try-On Using Augmented Reality - [Paper](https://link.springer.com/chapter/10.1007/978-981-19-1122-4_54)
   - WG-VITON: Wearing-Guide Virtual Try-On for Top and Bottom Clothes - [Paper](https://arxiv.org/pdf/2205.04759.pdf)
   - VTNCT: an image-based virtual try-on network by combining feature with pixel transformation, The Visual Computer 2022 - [Paper](https://link.springer.com/article/10.1007/s00371-022-02480-8)
   - RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on, IJCAI-ECAI 2022 - [Paper](https://arxiv.org/pdf/2204.11258.pdf), [Code/Model/Data](https://github.com/jokerlc/RMGN-VITON)
