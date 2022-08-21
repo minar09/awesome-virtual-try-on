@@ -180,6 +180,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   
 ## Video Virtual Try-on
 
+- ClothFormer: Taming Video Virtual Try-on in All Module, CVPR 2022 - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf), [Code](https://github.com/luxiangju-PersonAI/ClothFormer), [Project](https://cloth-former.github.io/)
 - MV-TON: Memory-based Video Virtual Try-on network, ACM MM 2021 - [Paper](https://arxiv.org/abs/2108.07502)
 - ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
 - FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On, ICCV 2019 - [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html)
