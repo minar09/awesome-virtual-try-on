@@ -287,6 +287,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
 - [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
 - [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
+- [Awesome pose transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
 
 
 #### Pull requests are welcome!
