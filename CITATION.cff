@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A Curated List of Awesome Virtual Try-on (VTON)
+  Research
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Matiur Rahman
+    family-names: Minar
+    email: minar09.bd@gmail.com
+    orcid: 'https://orcid.org/0000-0002-3128-2915'
