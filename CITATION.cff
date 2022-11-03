@@ -14,3 +14,7 @@ authors:
     family-names: Minar
     email: minar09.bd@gmail.com
     orcid: 'https://orcid.org/0000-0002-3128-2915'
+identifiers:
+  - type: url
+    value: 'https://github.com/minar09/awesome-virtual-try-on'
+    description: public URL for the list
