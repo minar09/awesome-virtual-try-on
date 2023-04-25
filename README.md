@@ -17,24 +17,33 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   #### CVPR 2023
   - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning - [Paper](https://arxiv.org/pdf/2303.13756.pdf), [Code](https://github.com/xiezhy6/GP-VTON), [Project](https://github.com/xiezhy6/GP-VTON)
   - Linking Garment with Person via Semantically Associated Landmarks for Virtual Try-On
+  
+  #### NeurIPS 2022
+  - Towards Hard-pose Virtual Try-on via 3D-aware Global Correspondence Learning - [Paper](https://arxiv.org/pdf/2211.14052.pdf), [Project](https://neurips.cc/virtual/2022/poster/54642)
+  
   #### WACV 2022
   - C-VTON: Context-Driven Image-Based Virtual Try-On Network - [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Fele_C-VTON_Context-Driven_Image-Based_Virtual_Try-On_Network_WACV_2022_paper.pdf), [Code/Model/Data](https://github.com/benquick123/C-VTON)
+  
   #### ECCV 2022
   - Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://arxiv.org/pdf/2204.08532.pdf), [Code/Data](https://github.com/aimagelab/dress-code)
   - High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions - [Paper](https://arxiv.org/abs/2206.14180), [Code/Model](https://github.com/sangyun884/HR-VITON)
   - Single Stage Virtual Try-on via Deformable Attention Flows - [Paper](https://arxiv.org/abs/2207.09161), [Code/Model](https://github.com/OFA-Sys/DAFlow)
+  
   #### CVPR 2022
   - Full-Range Virtual Try-On with Recurrent Tri-Level Transform - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Full-Range_Virtual_Try-On_With_Recurrent_Tri-Level_Transform_CVPR_2022_paper.pdf), [Project](https://lzqhardworker.github.io/RT-VTON/)
   - Style-Based Global Appearance Flow for Virtual Try-On - [Paper](https://arxiv.org/abs/2204.01046), [Code/Model](https://github.com/SenHe/Flow-Style-VTON)
   - Weakly Supervised High-Fidelity Clothing Model Generation - [Paper](https://arxiv.org/pdf/2112.07200.pdf), [Code/Model](https://github.com/RuiLiFeng/Deep-Generative-Projection)
   - Dressing in the Wild by Watching Dance Videos - [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Dressing_in_the_Wild_by_Watching_Dance_Videos_CVPR_2022_paper.html), [Project](https://awesome-wflow.github.io/)
+  
   #### CVPRW 2022
   - Dual-Branch Collaborative Transformer for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf)
   - Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code)
+  
   #### ICCV 2021
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order)
   - ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chopra_ZFlow_Gated_Appearance_Flow-Based_Virtual_Try-On_With_3D_Priors_ICCV_2021_paper.pdf)
   - FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf)
+  
   #### CVPR 2021
   - Parser-Free Virtual Try-on via Distilling Appearance Flows - [Paper](https://arxiv.org/pdf/2103.04559.pdf), [Code/Data/Model](https://github.com/geyuying/PF-AFN)
   - VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf), [Code/Model](https://github.com/shadow2496/VITON-HD)
@@ -125,6 +134,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## 3D Virtual Try-on
+
+  #### NeurIPS 2022
+  - ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On - [Paper](https://neurips.cc/virtual/2022/poster/53336), [Project](https://mslab.es/projects/ULNeF/)
 
   #### WACV 2022
   - Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems - [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Majithia_Robust_3D_Garment_Digitization_From_Monocular_2D_Images_for_3D_WACV_2022_paper.pdf)
