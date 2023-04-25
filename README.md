@@ -14,6 +14,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Image-based (2D) Virtual Try-on
+  #### CVPR 2023
+  - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning - [Paper](https://arxiv.org/pdf/2303.13756.pdf), [Code](https://github.com/xiezhy6/GP-VTON), [Project](https://github.com/xiezhy6/GP-VTON)
+  - Linking Garment with Person via Semantically Associated Landmarks for Virtual Try-On
   #### WACV 2022
   - C-VTON: Context-Driven Image-Based Virtual Try-On Network - [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Fele_C-VTON_Context-Driven_Image-Based_Virtual_Try-On_Network_WACV_2022_paper.pdf), [Code/Model/Data](https://github.com/benquick123/C-VTON)
   #### ECCV 2022
