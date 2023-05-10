@@ -194,6 +194,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 ## Multi-Pose Guided Virtual Try-on
 
+- CF-VTON: Multi-Pose Virtual Try-on with Cross-Domain Fusion, ICASSP 2023 - [Paper](https://ieeexplore.ieee.org/abstract/document/10095176)
 - Multiple Pose Virtual Try-On Based on 3D Clothing Reconstruction, IEEE Access 2021 - [Paper](https://ieeexplore.ieee.org/document/9512041)
 - SPG-VTON: Semantic Prediction Guidance for Multi-pose Virtual Try-on - [Paper](https://arxiv.org/abs/2108.01578)
 - Down to the Last Detail: Virtual Try-on with Fine-grained Details, ACM MM 2020 - [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413514), [Code/Model](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving), [ArXiv](https://arxiv.org/abs/1912.06324v2)
