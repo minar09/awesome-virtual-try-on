@@ -84,6 +84,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - FashionTex: Controllable Virtual Try-on with Text and Texture, SIGGRAPH 2023 - [Paper](https://arxiv.org/pdf/2305.04451.pdf)
   - Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On, BMVC 2022 - [Paper](https://arxiv.org/pdf/2210.00918.pdf), [Code/Model/Data](https://github.com/hasibzunair/fifa-tryon)
   - Probing TryOnGAN, CODS-COMAD 2022 - [Paper](https://arxiv.org/pdf/2201.01703.pdf)
   - FitGAN: Fit- and Shape-Realistic Generative Adversarial Networks for Fashion - [Paper](https://arxiv.org/pdf/2206.11768.pdf)
