@@ -85,6 +85,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
   #### Others
   - FashionTex: Controllable Virtual Try-on with Text and Texture, SIGGRAPH 2023 - [Paper](https://arxiv.org/pdf/2305.04451.pdf)
+  - DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling - [Paper](https://arxiv.org/pdf/2305.01257.pdf)
+  - PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm - [Paper](https://arxiv.org/pdf/2304.08956.pdf), [Code](https://github.com/NerdFNY/PGVTON)
   - Fill in Fabrics: Body-Aware Self-Supervised Inpainting for Image-Based Virtual Try-On, BMVC 2022 - [Paper](https://arxiv.org/pdf/2210.00918.pdf), [Code/Model/Data](https://github.com/hasibzunair/fifa-tryon)
   - Probing TryOnGAN, CODS-COMAD 2022 - [Paper](https://arxiv.org/pdf/2201.01703.pdf)
   - FitGAN: Fit- and Shape-Realistic Generative Adversarial Networks for Fashion - [Paper](https://arxiv.org/pdf/2206.11768.pdf)
