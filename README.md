@@ -85,6 +85,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Limb-Aware Virtual Try-On Network with Progressive Clothing Warping, IEEE Multimedia 2023 - [Paper](https://ieeexplore.ieee.org/abstract/document/10152500)
   - FashionTex: Controllable Virtual Try-on with Text and Texture, SIGGRAPH 2023 - [Paper](https://arxiv.org/pdf/2305.04451.pdf)
   - DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling - [Paper](https://arxiv.org/pdf/2305.01257.pdf)
   - PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm - [Paper](https://arxiv.org/pdf/2304.08956.pdf), [Code](https://github.com/NerdFNY/PGVTON)
