@@ -269,6 +269,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Datasets for Virtual Try-on
+- CLOTH4D, CVPR 2023 - [Download](https://github.com/AemikaChow/CLOTH4D)
 - DressCode - [Download](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform), [Paper](https://arxiv.org/pdf/2204.08532.pdf)
 - VITON-HD - [Download](https://www.dropbox.com/s/10bfat0kg4si1bu/zalando-hd-resized.zip?dl=0), [Project](https://psh01087.github.io/VITON-HD/)
 - VITON - [Download](https://drive.google.com/file/d/1MxCUvKxejnwWnoZ-KoCyMCXo3TLhRuTo/view), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
