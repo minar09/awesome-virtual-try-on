@@ -14,6 +14,8 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 
 
 ## Image-based (2D) Virtual Try-on
+  #### ICCV 2023
+  - Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing - [Paper](https://arxiv.org/abs/2304.02051), [Code](https://github.com/aimagelab/multimodal-garment-designer)
   #### CVPR 2023
   - GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning - [Paper](https://arxiv.org/pdf/2303.13756.pdf), [Code](https://github.com/xiezhy6/GP-VTON), [Project](https://github.com/xiezhy6/GP-VTON)
   - Linking Garment with Person via Semantically Associated Landmarks for Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf)
