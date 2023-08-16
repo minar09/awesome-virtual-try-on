@@ -224,6 +224,10 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Unsupervised Image-to-Video Clothing Transfer, ICCVW 2019 - [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Pumarola_Unsupervised_Image-to-Video_Clothing_Transfer_ICCVW_2019_paper.html)
 - Garment Replacement in Monocular Video Sequences, ACM TOG 2014 - [Paper](https://dl.acm.org/doi/10.1145/2634212)
 
+## Video-to-Image Virtual Try-on
+
+- DPV-VTON : Detail-Preserving Video-based Virtual Try-On, ICMIP 2023 - [Paper](https://dl.acm.org/doi/10.1145/3599589.3599599) 
+
 
 ## Non-clothing Virtual Try-on
 - Real-time Virtual-Try-On from a Single Example Image through Deep Inverse Graphics and Learned Differentiable Renderers, EUROGRAPHICS 2022 - [Paper](https://arxiv.org/pdf/2205.06305.pdf)
