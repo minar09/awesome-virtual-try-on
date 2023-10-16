@@ -90,6 +90,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup, TMM 2023 - [Paper](https://arxiv.org/abs/2301.00965), [Code](https://github.com/jychen9811/doc-vton)
   - Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)
   - LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2305.13501), [Code](https://github.com/miccunifi/ladi-vton)
   - Limb-Aware Virtual Try-On Network with Progressive Clothing Warping, IEEE Multimedia 2023 - [Paper](https://ieeexplore.ieee.org/abstract/document/10152500)
@@ -180,6 +181,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
   - Video Based Reconstruction of 3D People Models - [Paper/Code/Data](http://gvv.mpi-inf.mpg.de/projects/wxu/VideoAvatar/)
 
   #### Others
+  - DM-VTON: Distilled Mobile Real-time Virtual Try-On, ISMAR 2023 - [Paper](https://arxiv.org/abs/2308.13798), [Code](https://github.com/KiseKloset/DM-VTON)
   - Three stages of 3D virtual try-on network with appearance flow and shape field, The Visual Computer 2023 - [Paper](https://link.springer.com/article/10.1007/s00371-023-02946-3)
   - Robust 3D Garment Digitization from Monocular 2D Images for 3D Virtual Try-On Systems, 2021 - [Paper](https://arxiv.org/pdf/2111.15140.pdf)
   - REALISTIC MONOCULAR-TO-3D VIRTUAL TRY-ON VIA MULTI-SCALE CHARACTERISTICS CAPTURE, ICASSP 2022 - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9747277&casa_token=EALQVtpxonwAAAAA:GKEdQBbsji39XrEgGiSk7pJWgRB1KAH2me79_hsuaPSYTUfVn76h3Jyavxuk57CCWI6HYPRhRUk)
