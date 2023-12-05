@@ -101,6 +101,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM)
   - FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion - [Paper](https://arxiv.org/abs/2301.02110), [Code](https://github.com/martinpernus/fice)
   - OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup, TMM 2023 - [Paper](https://arxiv.org/abs/2301.00965), [Code](https://github.com/jychen9811/doc-vton)
   - Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)
