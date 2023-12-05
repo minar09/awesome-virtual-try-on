@@ -1,6 +1,7 @@
-# A Curated List of Awesome Virtual Try-on (VTON) Research ![Awesome VTON](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667 "Awesome Virtual Try-on")
-A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on (VTON).
+# A Curated List of Awesome Virtual Try-on (VTON) Research![Awesome VTON](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667 "Awesome Virtual Try-on")
+A curated list of awesome research papers, projects, code, datasets, workshops, etc. related to virtual try-on (VTON).
 
+- [Prompt-based Virtual Try-on](#Prompt-based-Virtual-Try-on)
 - [Image-based (2D) Virtual Try-on](#Image-based-2D-Virtual-Try-on)
 - [3D Virtual Try-on](#3D-virtual-try-on)
 - [Multi-Pose Guided Virtual Try-on](#Multi-Pose-Guided-Virtual-Try-on)
@@ -11,6 +12,16 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Demos](#Demos)
 - [Related Repositories](#Related-Repositories)
+
+
+## Prompt-based Virtual Try-on
+  #### ControlNet
+  - [ControlNet](https://github.com/lllyasviel/ControlNet) - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
+  - [EditAnything](https://github.com/sail-sg/EditAnything) - Hint: Use a reference fashion image as input and provide your desired changes in the text prompt.
+
+  #### Stable-Diffusion
+  - [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) - Hint: Use the Image-conditioned 3D Generation option to edit your fashion images.
+  - [ThreeStudio](https://github.com/threestudio-project/threestudio) - Hint: Use different models for generating output from the image-conditioned text prompts for fashion image editing.
 
 
 ## Image-based (2D) Virtual Try-on
