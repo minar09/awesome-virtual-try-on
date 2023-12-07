@@ -4,6 +4,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Prompt-based Virtual Try-on](#Prompt-based-Virtual-Try-on)
 - [Image-based (2D) Virtual Try-on](#Image-based-2D-Virtual-Try-on)
 - [3D Virtual Try-on](#3D-virtual-try-on)
+- [Mix-and-match Virtual Try-On](#Mix-and-match-Birtual-Try-on)
+- [In-the-wild Virtual Try-On](#In-the-wild-Virtual-Try-on)
 - [Multi-Pose Guided Virtual Try-on](#Multi-Pose-Guided-Virtual-Try-on)
 - [Video Virtual Try-on](#Video-Virtual-Try-on)
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
@@ -59,7 +61,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - Dress Code: High-Resolution Multi-Category Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf), [Code/Data](https://github.com/aimagelab/dress-code)
   
   #### ICCV 2021
-  - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order)
+  - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order), [Colab](https://colab.research.google.com/drive/1WfeKTPtt3qtlcTlrX47J03mxUzbVvyrL?usp=sharing)
   - ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chopra_ZFlow_Gated_Appearance_Flow-Based_Virtual_Try-On_With_3D_Priors_ICCV_2021_paper.pdf)
   - FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential Template Poses - [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FashionMirror_Co-Attention_Feature-Remapping_Virtual_Try-On_With_Sequential_Template_Poses_ICCV_2021_paper.pdf)
   
@@ -163,6 +165,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 
+
+
 ## 3D Virtual Try-on
 
   #### NeurIPS 2022
@@ -222,7 +226,15 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - Markerless Garment Capture, ACM TOG 2008 - [Paper/Data](http://www.cs.ubc.ca/labs/imager/tr/2008/MarkerlessGarmentCapture/)
 
 
+## Mix-and-match Virtual Try-on
+  - Wearing the Same Outfit in Different Ways -- A Controllable Virtual Try-on Method, WACV 2024 -[Paper](https://arxiv.org/abs/2211.16989)
+  - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing, ICCV 2021 -[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order), [Colab](https://colab.research.google.com/drive/1WfeKTPtt3qtlcTlrX47J03mxUzbVvyrL?usp=sharing)
+  - Toward Accurate and Realistic Outfits Visualization with Attention to Details, CVPR 2021 -[Paper](https://arxiv.org/pdf/2106.06593.pdf)
+  - Image Based Virtual Try-on Network from Unpaired Data, CVPR 2020 - [Paper](https://assets.amazon.science/1a/2b/7a4dd8264ce19a959559da799aff/scipub-1281.pdf), [Code](https://github.com/trinanjan12/Image-Based-Virtual-Try-on-Network-from-Unpaired-Data)
 
+## In-the-wild Virtual Try-on
+ - Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark)
+ - Dressing in the Wild by Watching Dance Videos, CVPR 2022 - [Paper](https://arxiv.org/abs/2203.15320), [Project](https://awesome-wflow.github.io/)
 
 ## Multi-Pose Guided Virtual Try-on
 
