@@ -25,6 +25,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Image-based (2D) Virtual Try-on
+  #### WACV 2024
+  - Wearing the Same Outfit in Different Ways -- A Controllable Virtual Try-on Method - [Paper](https://arxiv.org/abs/2211.16989)
   #### ICCV 2023
   - Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing - [Paper](https://arxiv.org/abs/2304.02051), [Code](https://github.com/aimagelab/multimodal-garment-designer)
   - Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network - [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf), [Code](https://github.com/cotton6/COTTON-size-does-matter)
@@ -101,6 +103,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark)
+  - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Paper](https://arxiv.org/abs/2312.01725), [Code](https://github.com/rlawjdghek/stableviton)
   - CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM)
   - FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion - [Paper](https://arxiv.org/abs/2301.02110), [Code](https://github.com/martinpernus/fice)
   - OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup, TMM 2023 - [Paper](https://arxiv.org/abs/2301.00965), [Code](https://github.com/jychen9811/doc-vton)
