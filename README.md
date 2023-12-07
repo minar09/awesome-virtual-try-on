@@ -4,7 +4,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Prompt-based Virtual Try-on](#Prompt-based-Virtual-Try-on)
 - [Image-based (2D) Virtual Try-on](#Image-based-2D-Virtual-Try-on)
 - [3D Virtual Try-on](#3D-virtual-try-on)
-- [Mix-and-match Virtual Try-On](#Mix-and-match-Birtual-Try-on)
+- [Mix-and-match Virtual Try-On](#Mix-and-match-Virtual-Try-on)
 - [In-the-wild Virtual Try-On](#In-the-wild-Virtual-Try-on)
 - [Multi-Pose Guided Virtual Try-on](#Multi-Pose-Guided-Virtual-Try-on)
 - [Video Virtual Try-on](#Video-Virtual-Try-on)
