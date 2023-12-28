@@ -27,6 +27,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Image-based (2D) Virtual Try-on
+  #### AAAI 2024
+  - Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - [Paper](https://arxiv.org/abs/2312.15861), [Code](https://github.com/SHShim0513/SD-VITON)
   #### WACV 2024
   - Wearing the Same Outfit in Different Ways -- A Controllable Virtual Try-on Method - [Paper](https://arxiv.org/abs/2211.16989)
   #### ICCV 2023
