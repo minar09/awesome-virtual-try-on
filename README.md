@@ -107,6 +107,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person - [Project](https://humanaigc.github.io/outfit-anyone/)
   - Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark)
   - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Paper](https://arxiv.org/abs/2312.01725), [Code](https://github.com/rlawjdghek/stableviton)
   - CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM)
