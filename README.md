@@ -1,4 +1,4 @@
-# A Curated List of Awesome Virtual Try-on (VTON) Research![Awesome VTON]([https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png) "Awesome Virtual Try-on")
+# A Curated List of Awesome Virtual Try-on (VTON) Research![Awesome VTON](awesome.png)
 A curated list of awesome research papers, projects, code, datasets, workshops, etc. related to virtual try-on (VTON).
 
 - [Prompt-based Virtual Try-on](#Prompt-based-Virtual-Try-on)
