@@ -1,4 +1,4 @@
-# A Curated List of Awesome Virtual Try-on (VTON) Research![Awesome VTON](<img src='awesome.png' width='25'>)
+# A Curated List of Awesome Virtual Try-on (VTON) Research![Awesome VTON]([<img src='awesome.png' width='25'>])
 A curated list of awesome research papers, projects, code, datasets, workshops, etc. related to virtual try-on (VTON).
 
 - [Prompt-based Virtual Try-on](#Prompt-based-Virtual-Try-on)
