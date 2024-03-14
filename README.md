@@ -29,8 +29,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Image-based (2D) Virtual Try-on
   #### AAAI 2024
   - Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - [Paper](https://arxiv.org/abs/2312.15861), [Code](https://github.com/SHShim0513/SD-VITON)
+  
   #### WACV 2024
   - Wearing the Same Outfit in Different Ways -- A Controllable Virtual Try-on Method - [Paper](https://arxiv.org/abs/2211.16989)
+  - GC-VTON: Predicting Globally Consistent and Occlusion Aware Local Flows with Neighborhood Integrity Preservation for Virtual Try-on - [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Rawal_GC-VTON_Predicting_Globally_Consistent_and_Occlusion_Aware_Local_Flows_With_WACV_2024_paper.pdf)
+
   #### ICCV 2023
   - Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing - [Paper](https://arxiv.org/abs/2304.02051), [Code](https://github.com/aimagelab/multimodal-garment-designer)
   - Size Does Matter: Size-aware Virtual Try-on via Clothing-oriented Transformation Try-on Network - [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Size_Does_Matter_Size-aware_Virtual_Try-on_via_Clothing-oriented_Transformation_Try-on_ICCV_2023_paper.pdf), [Code](https://github.com/cotton6/COTTON-size-does-matter)
