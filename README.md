@@ -27,6 +27,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Image-based (2D) Virtual Try-on
+  #### CVPR 2024
+  - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON)
+
   #### AAAI 2024
   - Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - [Paper](https://arxiv.org/abs/2312.15861), [Code](https://github.com/SHShim0513/SD-VITON)
   
@@ -111,7 +114,6 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
   #### Others
   - OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion)
-  - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON)
   - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person - [Project](https://humanaigc.github.io/outfit-anyone/)
   - Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark)
   - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Paper](https://arxiv.org/abs/2312.01725), [Code](https://github.com/rlawjdghek/stableviton)
