@@ -29,6 +29,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Image-based (2D) Virtual Try-on
   #### CVPR 2024
   - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON)
+  - CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM)
 
   #### AAAI 2024
   - Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - [Paper](https://arxiv.org/abs/2312.15861), [Code](https://github.com/SHShim0513/SD-VITON)
@@ -118,7 +119,6 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion)
   - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person - [Project](https://humanaigc.github.io/outfit-anyone/)
   - Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark)
-  - CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM)
   - FICE: Text-Conditioned Fashion Image Editing With Guided GAN Inversion - [Paper](https://arxiv.org/abs/2301.02110), [Code](https://github.com/martinpernus/fice)
   - OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup, TMM 2023 - [Paper](https://arxiv.org/abs/2301.00965), [Code](https://github.com/jychen9811/doc-vton)
   - Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow, ACM Multimedia 2023 - [Paper](https://arxiv.org/abs/2308.06101), [Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)
