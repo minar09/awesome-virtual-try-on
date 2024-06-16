@@ -114,6 +114,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - VITON: An Image-based Virtual Try-on Network - [Paper](https://arxiv.org/abs/1711.08447), [Code/Model](https://github.com/xthan/VITON)
 
   #### Others
+  - IMAGDressing-v1: Customizable Virtual Dressing -[Demo](https://sf.dictdoc.site/), [code](https://github.com/muzishen/IMAGDressing), [Project](https://imagdressing.github.io/)
   - Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing)
   - IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild - [Demo](https://huggingface.co/spaces/yisol/IDM-VTON), [Paper](https://arxiv.org/abs/2403.05139), [Project](https://idm-vton.github.io/)
   - OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion)
