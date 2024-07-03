@@ -30,6 +30,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   #### CVPR 2024
   - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON)
   - CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model - [Paper](https://arxiv.org/pdf/2311.18405.pdf), [Project](https://github.com/zengjianhao/CAT-DM)
+  - Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On - [Project/Code](https://github.com/Gal4way/TPD)
+  - PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns - [Project/Code](https://github.com/GAP-LAB-CUHK-SZ/PICTURE)
+  - M&M VTO: Multi-Garment Virtual Try-On and Editing - [Project](https://mmvto.github.io/)
+
+
 
   #### AAAI 2024
   - Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - [Paper](https://arxiv.org/abs/2312.15861), [Code](https://github.com/SHShim0513/SD-VITON)
@@ -180,6 +185,17 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## 3D Virtual Try-on
+
+  #### CVPR 2024
+  - DiffAvatar Simulation-Ready Garment Optimization with Differentiable Simulation - [Project](https://people.csail.mit.edu/liyifei/publication/diffavatar/), [Code](https://github.com/facebookresearch/DiffAvatar)
+  - Garment Recovery with Shape and Deformation Priors - [Project/Code](https://github.com/liren2515/GarmentRecovery)
+  - SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction - [Project](https://river-zhang.github.io/SIFU-projectpage/), [Code](https://github.com/River-Zhang/SIFU)
+
+  #### CVPR 2023
+  - DrapeNet: Garment Generation and Self-Supervised Draping - [Code](https://github.com/liren2515/DrapeNet)
+
+  #### ECCV 2022
+  - 3D Clothed Human Reconstruction in the Wild - [Code](https://github.com/hygenie1228/ClothWild_RELEASE)
 
   #### NeurIPS 2022
   - ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On - [Paper](https://neurips.cc/virtual/2022/poster/53336), [Project](https://mslab.es/projects/ULNeF/)
