@@ -361,7 +361,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Related Conference Workshops
 
-- Workshop on Computer Vision for Fashion, Art and Design: [CVPR 2022](https://sites.google.com/view/cvfad2022/home), [CVPR 2021](https://sites.google.com/zalando.de/cvfad2021/home), [CVPR 2020](https://sites.google.com/view/cvcreative2020), [ICCV 2019](https://sites.google.com/view/cvcreative), [ECCV 2018](https://sites.google.com/view/eccvfashion)
+- Workshop on Virtual Try-On: [CVPR 2024](https://vto-cvpr24.github.io/)
+- Workshop on Computer Vision for Fashion, Art and Design: [CVPR 2024](https://sites.google.com/view/cvfad2024/home), [CVPR 2023](https://sites.google.com/view/cvfad2023/home), [CVPR 2022](https://sites.google.com/view/cvfad2022/home), [CVPR 2021](https://sites.google.com/zalando.de/cvfad2021/home), [CVPR 2020](https://sites.google.com/view/cvcreative2020), [ICCV 2019](https://sites.google.com/view/cvcreative), [ECCV 2018](https://sites.google.com/view/eccvfashion)
 - Workshop on Towards Human-Centric Image/Video Synthesis: [CVPR 2020](https://vuhcs.github.io/), [CVPR 2019](https://vuhcs.github.io/vuhcs-2019/index.html)
 
 
