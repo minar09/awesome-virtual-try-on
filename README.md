@@ -309,6 +309,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Pose-Guided Human Synthesis
+- Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis, CVPR 2024 - [Code](https://github.com/YanzuoLu/CFLD)
 - IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation, NeurIPS 2024 - [Paper](https://openreview.net/forum?id=6IyYa4gETN), [Project](https://github.com/muzishen/IMAGPose)
 - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models, ICLR 2024 - [Paper](https://openreview.net/pdf?id=rHzapPnCgT), [Project](https://github.com/tencent-ailab/PCDMs)
 - Cross Attention Based Style Distribution for Controllable Person Image Synthesis, ECCV 2022 - [Paper](https://arxiv.org/pdf/2208.00712.pdf)
