@@ -259,6 +259,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Mix-and-match Virtual Try-on
   - Wearing the Same Outfit in Different Ways -- A Controllable Virtual Try-on Method, WACV 2024 -[Paper](https://arxiv.org/abs/2211.16989)
+  - UMFuse: Unified Multi View Fusion for Human Editing Applications, ICCV 2023 - [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jain_UMFuse_Unified_Multi_View_Fusion_for_Human_Editing_Applications_ICCV_2023_paper.html), [Project](https://mdsrlab.github.io/2023/08/13/UMFuse-ICCV.html)
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing, ICCV 2021 -[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order), [Colab](https://colab.research.google.com/drive/1WfeKTPtt3qtlcTlrX47J03mxUzbVvyrL?usp=sharing)
   - Toward Accurate and Realistic Outfits Visualization with Attention to Details, CVPR 2021 -[Paper](https://arxiv.org/pdf/2106.06593.pdf)
   - Image Based Virtual Try-on Network from Unpaired Data, CVPR 2020 - [Paper](https://assets.amazon.science/1a/2b/7a4dd8264ce19a959559da799aff/scipub-1281.pdf), [Code](https://github.com/trinanjan12/Image-Based-Virtual-Try-on-Network-from-Unpaired-Data)
