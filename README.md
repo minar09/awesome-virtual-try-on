@@ -317,6 +317,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis, CVPR 2024 - [Code](https://github.com/YanzuoLu/CFLD)
 - IMAGPose: A Unified Conditional Framework for Pose-Guided Person Generation, NeurIPS 2024 - [Paper](https://openreview.net/forum?id=6IyYa4gETN), [Project](https://github.com/muzishen/IMAGPose)
 - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models, ICLR 2024 - [Paper](https://openreview.net/pdf?id=rHzapPnCgT), [Project](https://github.com/tencent-ailab/PCDMs)
+- VGFlow: Visibility Guided Flow Network for Human Reposing, CVPR 2023 - [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Jain_VGFlow_Visibility_Guided_Flow_Network_for_Human_Reposing_CVPR_2023_paper.html), [Project](https://mdsrlab.github.io/2023/03/17/VGFlow-CVPR.html)
 - Cross Attention Based Style Distribution for Controllable Person Image Synthesis, ECCV 2022 - [Paper](https://arxiv.org/pdf/2208.00712.pdf)
 - InsetGAN for Full-Body Image Generation, CVPR 2022. - [Paper](https://arxiv.org/abs/2203.07293), [Project](http://afruehstueck.github.io/insetgan)
 - Dressing in the Wild by Watching Dance Videos, CVPR 2022 - [Paper](https://arxiv.org/abs/2203.15320), [Project](https://awesome-wflow.github.io/)
