@@ -384,6 +384,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - Outfit Anyone - [Demo](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone), [Docs](https://github.com/HumanAIGC/OutfitAnyone)
 - Looklet Dressing Room [Business](https://looklet.com), [Demo](https://dressing-room.looklet.com)
 - TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
+- Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV)
 
 
 
