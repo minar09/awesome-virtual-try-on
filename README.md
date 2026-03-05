@@ -28,6 +28,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Image-based (2D) Virtual Try-on
 
+  #### CVPR 2026
+   - Mobile-VTON: High-Fidelity On-Device Virtual Try-On - [Project/Paper](https://zhenchenwan.github.io/Mobile-VTON/)
+
   #### NeurIPS 2025
   - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
 
