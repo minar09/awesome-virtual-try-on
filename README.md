@@ -394,7 +394,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 - Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV)
 - Virtual Try On AI - [Business/Demo](https://aitryon.art/)
-- Genlook virtual try-on for Ecommerce ( Garnement, shoes, glasses )  , demo on e-commerce site. [Business](https://www.genlook.app/) [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime) 
+- Genlook virtual try-on for Ecommerce ( Garnement, shoes, glasses ). [Business](https://www.genlook.app/) [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime) 
 
 
 
