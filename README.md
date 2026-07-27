@@ -413,6 +413,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - Virtual Try On AI - [Business/Demo](https://aitryon.art/)
 - Genlook virtual try-on for Ecommerce ( Garment, shoes, glasses ). [Business](https://www.genlook.app/) [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime)
 - Adstronaut AI - on-model AI photoshoots, garment editor, color and fabric swap, and tech packs for fashion brands. [Business](https://adstronaut.net)
+- STIL.AI - AI-powered fashion design generator. Describe your dream garment and get a unique AI-generated design in seconds. Free preview with watermark, high-res purchase from 9 SEK. [Demo](https://stil.gracestack.se/text-till-mode.html), [Business](https://stil.gracestack.se)
 
 
 
