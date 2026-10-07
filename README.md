@@ -11,6 +11,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
+- [Safety and Moderation for Virtual Try-on](#Safety-and-Moderation-for-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Demos](#Demos)
 - [Related Repositories](#Related-Repositories)
@@ -437,6 +438,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 
+## Safety and Moderation for Virtual Try-on
+
+- Try-On Safety Classifier: predicts what a try-on of a product would show (ok, revealing, lingerie, adult) - [Model](https://huggingface.co/Genlook/tryon-safety-classifier), [Blog](https://genlook.app/blog/open-source-tryon-safety-classifier)
+
+
 ## Related Conference Workshops
 
 - Workshop on Virtual Try-On: [CVPR 2024](https://vto-cvpr24.github.io/)
@@ -454,7 +460,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 - Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV)
 - Virtual Try On AI - [Business/Demo](https://aitryon.art/)
-- Genlook virtual try-on for Ecommerce ( Garment, shoes, glasses ). [Business](https://www.genlook.app/) [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime)
+- Genlook virtual try-on for Ecommerce (garments, shoes, glasses) and Try-On API for developers. [Business](https://www.genlook.app/), [API](https://genlook.app/developers), [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime)
 - Adstronaut AI - on-model AI photoshoots, garment editor, color and fabric swap, and tech packs for fashion brands. [Business](https://adstronaut.net)
 - STIL.AI - AI-powered fashion design generator. Describe your dream garment and get a unique AI-generated design in seconds. Free preview with watermark, high-res purchase from 9 SEK. [Demo](https://stil.gracestack.se/text-till-mode.html), [Business](https://stil.gracestack.se)
 - Kolors Virtual - AI fashion virtual try-on that generates images and videos of models wearing your outfits. [Business/Demo](https://www.kolorsvirtual.com/)
