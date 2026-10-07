@@ -440,7 +440,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Safety and Moderation for Virtual Try-on
 
-- Try-On Safety Classifier: predicts from product photos what a virtual try-on of that product would show (ok, revealing, lingerie, adult), plus subject (human clothing, pet, not clothing) and swimwear coverage. SigLIP 2 based, Apache-2.0. - [Model](https://huggingface.co/Genlook/tryon-safety-classifier), [Labelling policy](https://huggingface.co/Genlook/tryon-safety-classifier/blob/main/LABELLING_POLICY.md), [Blog](https://genlook.app/blog/open-source-tryon-safety-classifier)
+- Try-On Safety Classifier: predicts what a try-on of a product would show (ok, revealing, lingerie, adult) - [Model](https://huggingface.co/Genlook/tryon-safety-classifier), [Blog](https://genlook.app/blog/open-source-tryon-safety-classifier)
 
 
 ## Related Conference Workshops
