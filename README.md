@@ -29,20 +29,43 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Image-based (2D) Virtual Try-on
 
   #### CVPR 2026
+   - PG-VTON: Single-Pass Training-Free Virtual Try-On via Patch-Guided Reference Alignment - [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_PG-VTON_Single-Pass_Training-Free_Virtual_Try-On_via_Patch-Guided_Reference_Alignment_CVPR_2026_paper.html)
    - Mobile-VTON: High-Fidelity On-Device Virtual Try-On - [Project/Paper](https://zhenchenwan.github.io/Mobile-VTON/)
    - MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.pdf)
    - Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision - [Project/Paper](https://hyunsoocha.github.io/vanast/)
    - Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories - [Project](https://artmesciencelab.github.io/Garments2Look/)
 
+  #### ECCV 2026
+  - Layering Virtual Try-On - [Paper](https://doi.org/10.1007/978-3-032-37255-0_21)
+  - Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off - [Paper](https://doi.org/10.1007/978-3-032-37602-2_4)
+  - WearWow: Native 2K Multi-garment Virtual Try-On via Adaptive Token Packing and Preference Alignment - [Paper](https://doi.org/10.1007/978-3-032-37032-7_34)
 
   #### NeurIPS 2025
   - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
+  - VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences - [Paper](https://doi.org/10.52202/085713-4937)
+  - PhysDiff-VTON: Cross-Domain Physics Modeling and Trajectory Optimization for Virtual Try-On - [Paper](https://doi.org/10.52202/085713-0323)
 
   #### CVPR 2025
   - VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding - [Project](https://vton-handfit.github.io/)
+  - Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling - [Paper](https://doi.org/10.1109/cvpr52734.2025.01978)
+  - ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On - [Paper](https://doi.org/10.1109/cvpr52734.2025.02634)
+  - Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On - [Paper](https://doi.org/10.1109/cvpr52734.2025.01494)
+  - Leffa: Learning Flow Fields in Attention for Controllable Person Image Generation - [Paper](https://doi.org/10.1109/cvpr52734.2025.00238)
+
+  #### ICCV 2025
+  - OmniVTON: Training-Free Universal Virtual Try-On - [Paper](https://doi.org/10.1109/iccv51701.2025.01551)
+  - PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-Aware Mask - [Paper](https://doi.org/10.1109/iccv51701.2025.01487)
+  - All Parts Matter: A Unified Mask-Free Virtual Try-On Framework - [Paper](https://doi.org/10.1109/iccv51701.2025.01815)
+  - Learning Implicit Features with Flow-Infused Transformations for Realistic Virtual Try-On - [Paper](https://doi.org/10.1109/iccv51701.2025.01741)
+  - Any2anytryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks - [Paper](https://doi.org/10.1109/iccv51701.2025.01774)
+  - TryOn-Refiner: Conditional Rectified-Flow-Based Tryon Refiner for More Accurate Detail Reconstruction - [Paper](https://doi.org/10.1109/iccv51701.2025.01454)
+
+  #### IJCAI 2025
+  - CrossVTON: Mimicking the Logic Reasoning on Cross-Category Virtual Try-On Guided by Tri-Zone Priors - [Paper](https://www.ijcai.org/proceedings/2025/0191.pdf)
 
   #### AAAI 2025
   - MV-VTON: Multi-View Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/abs/2404.17364), [Code/Data](https://github.com/hywang2002/MV-VTON), [Project](https://hywang2002.github.io/MV-VTON/)
+  - DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder - [Paper](https://doi.org/10.1609/aaai.v39i5.32554)
 
   #### CVPR 2024
   - StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On - [Project](https://rlawjdghek.github.io/StableVITON/), [Code/Data/Model](https://github.com/rlawjdghek/StableVITON)
@@ -51,6 +74,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns - [Project/Code](https://github.com/GAP-LAB-CUHK-SZ/PICTURE)
   - M&M VTO: Multi-Garment Virtual Try-On and Editing - [Project](https://mmvto.github.io/)
 
+  #### ACM Multimedia 2024
+  - Shape-Guided Clothing Warping for Virtual Try-On (SCW-VTON) - [Paper](https://doi.org/10.1145/3664647.3680756)
+
+  #### IJCAI 2024
+  - FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on - [Paper](https://www.ijcai.org/proceedings/2024/0151.pdf)
 
   #### AAAI 2024
   - Towards Squeezing-Averse Virtual Try-On via Sequential Deformation - [Paper](https://arxiv.org/abs/2312.15861), [Code](https://github.com/SHShim0513/SD-VITON)
@@ -137,7 +165,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   #### Others
   - BootComp: Controllable Human Image Generation with Personalized Multi-Garments - [Paper](https://arxiv.org/abs/2411.16801), [Project](https://yisol.github.io/BootComp/)
   - CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/pdf/2407.15886), [Code](https://github.com/Zheng-Chong/CatVTON)
-  - IMAGDressing-v1: Customizable Virtual Dressing - [Demo](https://sf.dictdoc.site/), [code](https://github.com/muzishen/IMAGDressing), [Project](https://imagdressing.github.io/)
+  - IMAGDressing-v1: Customizable Virtual Dressing, AAAI 2025 - [Paper](https://doi.org/10.1609/aaai.v39i7.32729), [Demo](https://sf.dictdoc.site/), [Code](https://github.com/muzishen/IMAGDressing), [Project](https://imagdressing.github.io/)
   - Magic Clothing: Controllable Garment-Driven Image Synthesis - [Paper](https://arxiv.org/abs/2404.09512), [Code](https://github.com/ShineChen1024/MagicClothing)
   - IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild - [Demo](https://huggingface.co/spaces/yisol/IDM-VTON), [Paper](https://arxiv.org/abs/2403.05139), [Project](https://idm-vton.github.io/)
   - OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on - [Code](https://github.com/levihsu/OOTDiffusion)
@@ -209,7 +237,10 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - [Project](https://yukangcao.github.io/GS-VTON/), [Paper](https://arxiv.org/abs/2410.05259), [Code](https://github.com/yukangcao/GS-VTON)
 
   #### CVPR 2025
-  - VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction - [Project](https://scnuhealthy.github.io/VTON360/)
+  - VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction - [Paper](https://doi.org/10.1109/cvpr52734.2025.02457), [Project](https://scnuhealthy.github.io/VTON360/)
+
+  #### ACM Multimedia 2024
+  - DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models - [Paper](https://doi.org/10.1145/3664647.3681391)
 
   #### CVPR 2024
   - DiffAvatar Simulation-Ready Garment Optimization with Differentiable Simulation - [Project](https://people.csail.mit.edu/liyifei/publication/diffavatar/), [Code](https://github.com/facebookresearch/DiffAvatar)
@@ -264,6 +295,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - Physically Based Neural Simulator for Garment Animation - [Paper](https://arxiv.org/pdf/2012.11310.pdf)
   - GarNet++: Improving Fast and Accurate Static3D Cloth Draping by Curvature Loss, IEEE T-PAMI, 2020 - [Paper](https://arxiv.org/abs/2007.10867)
   - DeepCloth: Neural Garment Representation for Shape and Style Editing - [Paper](https://arxiv.org/abs/2011.14619)
+  - DiffuseFit: Shape-guided warping and limb-aware diffusion synthesis for occlusion-resilient and semantically consistent virtual try-on, Computer Vision and Image Understanding 2026 - [Paper](https://doi.org/10.1016/j.cviu.2026.104807)
+  - LayerDiffusion: High-Fidelity Layered Virtual Try-On via Semantic-Aware Diffusion, IEEE Transactions on Circuits and Systems for Video Technology 2026 - [Paper](https://doi.org/10.1109/TCSVT.2026.3679372)
   - CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON, ACCV 2020 - [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Minar_CloTH-VTON_Clothing_Three-dimensional_reconstruction_for_Hybrid_image-based_Virtual_Try-ON_ACCV_2020_paper.html), [Project](https://minar09.github.io/clothvton/)
   - Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On, ACM SCA 2020 - [Paper/Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn)
   - DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D Garment Animation - [Paper](https://arxiv.org/pdf/2009.02715.pdf)
@@ -280,6 +313,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Mix-and-match Virtual Try-on
+  - OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation, ECCV 2026 - [Paper](https://doi.org/10.1007/978-3-032-37152-2_19)
   - Wearing the Same Outfit in Different Ways -- A Controllable Virtual Try-on Method, WACV 2024 -[Paper](https://arxiv.org/abs/2211.16989)
   - UMFuse: Unified Multi View Fusion for Human Editing Applications, ICCV 2023 - [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jain_UMFuse_Unified_Multi_View_Fusion_for_Human_Editing_Applications_ICCV_2023_paper.html), [Project](https://mdsrlab.github.io/2023/08/13/UMFuse-ICCV.html)
   - Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing, ICCV 2021 -[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf), [Code](https://github.com/cuiaiyu/dressing-in-order), [Colab](https://colab.research.google.com/drive/1WfeKTPtt3qtlcTlrX47J03mxUzbVvyrL?usp=sharing)
@@ -288,6 +322,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## In-the-wild Virtual Try-on
  - Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images -[Paper](https://arxiv.org/pdf/2311.16094.pdf), [Data](https://github.com/cuiaiyu/street-tryon-benchmark)
+ - BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.02458)
  - Dressing in the Wild by Watching Dance Videos, CVPR 2022 - [Paper](https://arxiv.org/abs/2203.15320), [Project](https://awesome-wflow.github.io/)
 
 ## Multi-Pose Guided Virtual Try-on
@@ -307,6 +342,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 ## Video Virtual Try-on
 
 - Eevee: Towards Close-up High-resolution Video-based Virtual Try-on, CVPR 2026 - [Project](https://github.com/AMAP-ML/Eevee)
+- Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.02109)
+- Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image, NeurIPS 2025 - [Paper](https://doi.org/10.52202/085713-5188)
+- Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos, ACM Multimedia 2024 - [Paper](https://doi.org/10.1145/3664647.3680836)
+- GPD-VVTO: Preserving Garment Details in Video Virtual Try-On, ACM Multimedia 2024 - [Paper](https://doi.org/10.1145/3664647.3680701)
+- Fashion-VDM: Video Diffusion Model for Virtual Try-On, SIGGRAPH Asia 2024 - [Paper](https://doi.org/10.1145/3680528.3687623)
 - ClothFormer: Taming Video Virtual Try-on in All Module, CVPR 2022 - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf), [Code](https://github.com/luxiangju-PersonAI/ClothFormer), [Project](https://cloth-former.github.io/)
 - MV-TON: Memory-based Video Virtual Try-on network, ACM MM 2021 - [Paper](https://arxiv.org/abs/2108.07502)
 - ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
@@ -321,6 +361,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## Non-clothing Virtual Try-on
 - OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry)
+- Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.00042)
+- From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos, ICCV 2025 - [Paper](https://doi.org/10.1109/iccv51701.2025.02385)
+- ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On, NeurIPS 2025 - [Paper](https://doi.org/10.52202/085713-1088)
 - Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model, SIGGRAPH 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Makeup)
 - Stable-Hair: Real-World Hair Transfer via Diffusion Model, AAAI 2025 - [Code](https://github.com/Xiaojiu-z/Stable-Hair)
 - Real-time Virtual-Try-On from a Single Example Image through Deep Inverse Graphics and Learned Differentiable Renderers, EUROGRAPHICS 2022 - [Paper](https://arxiv.org/pdf/2205.06305.pdf)
