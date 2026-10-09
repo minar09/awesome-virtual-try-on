@@ -466,6 +466,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - Kolors Virtual - AI fashion virtual try-on that generates images and videos of models wearing your outfits. [Business/Demo](https://www.kolorsvirtual.com/)
 - InkCraft - tattoo virtual try-on: warps the design to the body surface in the user's own photo rather than compositing it flat; the mobile app adds a 3D body model built from that photo for checking placement from other angles. Browser demo, no signup. [Business](https://inkcraftapp.com), [Demo](https://inkcraftapp.com/try)
 - Private Try-On - AI outfit style previews built from separate tops, bottoms, shoes, and optional accessories. [Business/Demo](https://privatetryon.com/)
+- Flamingo - consumer try-on app: builds a reusable AI avatar of the user from a selfie plus one full-body photo, then dresses it in multi-garment outfits (top, bottoms, shoes, accessories) from the user's own closet, shop catalogues, or garments auto-extracted from a screenshot of someone else's outfit. iPhone and web. [Business](https://tryflamingo.app), [Demo](https://app.tryflamingo.app)
 
 
 
