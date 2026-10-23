@@ -361,6 +361,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Non-clothing Virtual Try-on
+- HairPort: In-context 3D-aware Hair Import and Transfer for Images, SIGGRAPH 2026 - [Paper](https://arxiv.org/abs/2606.12562), [Code](https://github.com/deepmancer/HairPort), [Project](https://deepmancer.github.io/HairPort/)
 - OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry)
 - Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.00042)
 - From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos, ICCV 2025 - [Paper](https://doi.org/10.1109/iccv51701.2025.02385)
@@ -418,6 +419,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Datasets for Virtual Try-on
+- Baldy, SIGGRAPH 2026 - [Download](https://huggingface.co/datasets/deepmancer/baldy), [Paper](https://arxiv.org/abs/2606.12562)
 - MV-Fashion, CVPR 2026 - [Project](https://hunorlaczko.github.io/MV-Fashion/)
 - Garments2Look, CVPR 2026 - [Project](https://artmesciencelab.github.io/Garments2Look/)
 - StreetTryOn - [Download](https://github.com/cuiaiyu/street-tryon-benchmark)
