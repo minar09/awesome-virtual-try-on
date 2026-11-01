@@ -470,6 +470,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - Private Try-On - AI outfit style previews built from separate tops, bottoms, shoes, and optional accessories. [Business/Demo](https://privatetryon.com/)
 - Flamingo - consumer try-on app: builds a reusable AI avatar of the user from a selfie plus one full-body photo, then dresses it in multi-garment outfits (top, bottoms, shoes, accessories) from the user's own closet, shop catalogues, or garments auto-extracted from a screenshot of someone else's outfit. iPhone and web. [Business](https://tryflamingo.app), [Demo](https://app.tryflamingo.app)
 - StyleMirror AI - hairstyle virtual try-on: previews haircuts and hair colors on the user's own photo, either from 65+ preset styles or by matching a reference hairstyle photo, and shows a before/after comparison that keeps the face and framing unchanged. Free credits on signup. [Business/Demo](https://stylemirrorai.com/)
+- Attiro - AI fashion studio for virtual clothes try-on and flat-lay-to-model product photography for apparel ecommerce. [Business/Demo](https://attiro.ai/)
 
 
 
