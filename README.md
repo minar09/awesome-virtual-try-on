@@ -11,6 +11,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
+- [Safety and Moderation for Virtual Try-on](#Safety-and-Moderation-for-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Demos](#Demos)
 - [Related Repositories](#Related-Repositories)
@@ -363,6 +364,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Non-clothing Virtual Try-on
+- HairPort: In-context 3D-aware Hair Import and Transfer for Images, SIGGRAPH 2026 - [Paper](https://arxiv.org/abs/2606.12562), [Code](https://github.com/deepmancer/HairPort), [Project](https://deepmancer.github.io/HairPort/)
 - OmniTry: Virtual Try-On Anything without Masks - [Paper](http://arxiv.org/abs/2508.13632), [Code](https://github.com/Kunbyte-AI/OmniTry)
 - Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model, CVPR 2025 - [Paper](https://doi.org/10.1109/cvpr52734.2025.00042)
 - From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos, ICCV 2025 - [Paper](https://doi.org/10.1109/iccv51701.2025.02385)
@@ -420,6 +422,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Datasets for Virtual Try-on
+- Baldy, SIGGRAPH 2026 - [Download](https://huggingface.co/datasets/deepmancer/baldy), [Paper](https://arxiv.org/abs/2606.12562)
 - MV-Fashion, CVPR 2026 - [Project](https://hunorlaczko.github.io/MV-Fashion/)
 - Garments2Look, CVPR 2026 - [Project](https://artmesciencelab.github.io/Garments2Look/)
 - StreetTryOn - [Download](https://github.com/cuiaiyu/street-tryon-benchmark)
@@ -440,6 +443,11 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 
+## Safety and Moderation for Virtual Try-on
+
+- Try-On Safety Classifier: predicts what a try-on of a product would show (ok, revealing, lingerie, adult) - [Model](https://huggingface.co/Genlook/tryon-safety-classifier), [Blog](https://genlook.app/blog/open-source-tryon-safety-classifier)
+
+
 ## Related Conference Workshops
 
 - Workshop on Virtual Try-On: [CVPR 2024](https://vto-cvpr24.github.io/)
@@ -457,12 +465,15 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - TINT platform for virtual try-on of everything face-related (makeup, glasses, earrings, jewelry, etc.) [Business](https://www.banuba.com/solutions/e-commerce/virtual-try-on), [Demo](https://banuba.com/solutions/e-commerce/virtual-makeup-demo/).
 - Real-time virtual try-on - [Demo](https://github.com/ZaiqiangWu/RTV)
 - Virtual Try On AI - [Business/Demo](https://aitryon.art/)
-- Genlook virtual try-on for Ecommerce ( Garment, shoes, glasses ). [Business](https://www.genlook.app/) [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime)
+- Genlook virtual try-on for Ecommerce (garments, shoes, glasses) and Try-On API for developers. [Business](https://www.genlook.app/), [API](https://genlook.app/developers), [Demo](https://demo.genlook.app/products/t-shirt-manches-courtes-imprime)
 - Adstronaut AI - on-model AI photoshoots, garment editor, color and fabric swap, and tech packs for fashion brands. [Business](https://adstronaut.net)
 - STIL.AI - AI-powered fashion design generator. Describe your dream garment and get a unique AI-generated design in seconds. Free preview with watermark, high-res purchase from 9 SEK. [Demo](https://stil.gracestack.se/text-till-mode.html), [Business](https://stil.gracestack.se)
 - Kolors Virtual - AI fashion virtual try-on that generates images and videos of models wearing your outfits. [Business/Demo](https://www.kolorsvirtual.com/)
 - InkCraft - tattoo virtual try-on: warps the design to the body surface in the user's own photo rather than compositing it flat; the mobile app adds a 3D body model built from that photo for checking placement from other angles. Browser demo, no signup. [Business](https://inkcraftapp.com), [Demo](https://inkcraftapp.com/try)
 - Private Try-On - AI outfit style previews built from separate tops, bottoms, shoes, and optional accessories. [Business/Demo](https://privatetryon.com/)
+- Flamingo - consumer try-on app: builds a reusable AI avatar of the user from a selfie plus one full-body photo, then dresses it in multi-garment outfits (top, bottoms, shoes, accessories) from the user's own closet, shop catalogues, or garments auto-extracted from a screenshot of someone else's outfit. iPhone and web. [Business](https://tryflamingo.app), [Demo](https://app.tryflamingo.app)
+- StyleMirror AI - hairstyle virtual try-on: previews haircuts and hair colors on the user's own photo, either from 65+ preset styles or by matching a reference hairstyle photo, and shows a before/after comparison that keeps the face and framing unchanged. Free credits on signup. [Business/Demo](https://stylemirrorai.com/)
+- Attiro - AI fashion studio for virtual clothes try-on and flat-lay-to-model product photography for apparel ecommerce. [Business/Demo](https://attiro.ai/)
 
 
 
