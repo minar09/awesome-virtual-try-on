@@ -40,6 +40,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   - Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off - [Paper](https://doi.org/10.1007/978-3-032-37602-2_4)
   - WearWow: Native 2K Multi-garment Virtual Try-On via Adaptive Token Packing and Preference Alignment - [Paper](https://doi.org/10.1007/978-3-032-37032-7_34)
 
+  #### NeurIPS 2026
+  - CORAL: Correspondence Alignment for Improved Virtual Try-On - [Paper](https://arxiv.org/abs/2602.17636), [Project](https://cvlab-kaist.github.io/CORAL/), [Code](https://github.com/cvlab-kaist/CORAL)
+
   #### NeurIPS 2025
   - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
   - VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences - [Paper](https://doi.org/10.52202/085713-4937)
